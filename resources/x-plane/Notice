@@ -1,0 +1,13 @@
+== resources/x-plane ==
+
+This folder contains original X-plane data (GPLv2), signed as follows:
+  Robin Peel
+  Custodian of the X-Plane global airport and nav-aid data
+  robin@xsquawkbox.net
+
+WARNING:
+This data is ageing and not maintained. You should provide updated files, but
+not edit or replace the ones here directly. To provide custom data, see:
+- "resources/apt" for airport layouts and details, e.g. taxiways or elevation;
+- "resources/nav" for world navigation points, airways and airfield positions.
+
