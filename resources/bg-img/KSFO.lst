@@ -1,0 +1,8 @@
+example/osm-KSFO.png       KSFO>360,100>270,100:KSFO>180,100>090,100  Bottom layer: OpenStreetMap image
+example/smiley.png         PYE:SAU                   Second image, drawn over bottom layer
+example/smiley.png         KNUQ:KCVH                 Duplicated image, different size
+example/drawing-specfile   DRAW                      Hand drawing, knows where to go
+example/grumpy.png         PYE:37.82364,-122.54533   Top layer: grumpy
+
+example/grumpy.png         LOOSE 1      Grumpy
+example/smiley.png         LOOSE 1.5    Smiley

@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+	<meta name="qrichtext" content="1" />
+	<style type="text/css">p, li { white-space: pre-wrap; }</style>
+</head>
+
+<body>
+
+<h1>Mouse gestures</h1>
+
+<h2>Mouse hover</h2>
+<ul>
+	<li>strip: show comment in tool tip</li>
+	<li>radar scope: show selection-to-mouse info</li>
+	<li>unpinned navpoints and elements on the radar scope: show short name, and frequency/channel if navaid</li>
+	<li>entry in navigator or ATC list: show a tool tip with true heading and distance from radar centre</li>
+</ul>
+
+<h2>Plain click</h2>
+
+<p>Left button:</p>
+<ul>
+	<li>on aircraft body, radar tag, strip or FPL: select</li>
+	<li>on radar background: deselect</li>
+	<li>on navpoint: fill navigator filter and instruction navpoint fields</li>
+	<li>on radio text chat message: recall dest./message in entry line</li>
+	<ul type="circle">
+		<li>own message: recalls both</li>
+		<li>other: fill dest. and focus message field</li>
+	</ul>
+	<li>with SHIFT on navpoint if selection contains a strip with a recognised route: add/remove enroute waypoint</li>
+</ul>
+
+<p>Middle button:</p>
+<ul>
+	<li>on aircraft body, radar tag, strip or FPL: link to current selection if any and possible</li>
+	<li>with SHIFT on aircraft body, radar tag, strip or FPL (if selected and linked): unlink from rest of selection</li>
+</ul>
+
+<h2>Double-click</h2>
+
+<p>No SHIFT:</p>
+<ul>
+	<li>on strip: open and edit the strip detail sheet</li>
+	<li>on aircraft body or radar tag: edit linked strip if any</li>
+	<li>on rack, under strips: create new strip on rack</li>
+	<li>on loose strip bay background: create new strip in bay</li>
+	<li>on rack tab or column title: edit/delete rack</li>
+	<li>on radar navpoint: pin/unpin label</li>
+	<li>on navigator entry: indicate point on radar screen</li>
+	<li>on ATC: switch ATC chat panel to private channel</li>
+	<li>on notification: notification-dependant</li>
+</ul>
+
+<p>With SHIFT:</p>
+<ul>
+	<li>on strip: indicate linked ACFT or XPDR identification</li>
+	<li>on ATC: indicate position if known</li>
+	<li>on aircraft body: remove hdg/alt./FL/speed assignments</li>
+	<li>on radar tag: reset text box position</li>
+	<li>on radar background: add custom text label (annotate radar)</li>
+	<li>on custom text label: remove label</li>
+</ul>
+
+<h2>Click &amp; drag</h2>
+
+<p>Left button:</p>
+<ul>
+	<li>on radar scope if not locked: pan view</li>
+	<li>aircraft body: vector/instruct (press right button while dragging to abort; solo: instructs callsign; teacher: direct control)</li>
+	<ul type="circle">
+		<li>without SHIFT: assign heading or instruct taxi</li>
+		<li>with SHIFT, dragging vertically: assign alt./FL</li>
+		<li>with SHIFT, dragging horizontally: assign speed</li>
+	</ul>
+	<li>radar tag: move tag</li>
+	<li>strip:</li>
+	<ul type="circle">
+		<li>within/between racks or loose bays: rerack/reorder/reposition flight strip</li>
+		<li>with SHIFT on loose strip: move and keep within bay, pushing edges as needed</li>
+		<li>drop on handover list: hand linked aircraft over to ATC</li>
+		<li>drop on shelf: shelve strip, e.g. when releasing a contact</li>
+	</ul>
+</ul>
+
+<p>Right button:</p>
+<ul>
+	<li>on radar scope without SHIFT: quick heading and distance measuring tool + show ground elevation if available</li>
+	<li>on radar scope with SHIFT as teacher: create new traffic</li>
+	<li>in tower view window when not following an aircraft (FlightGear input): look around</li>
+</ul>
+
+</body>
+</html>
+

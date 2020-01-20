@@ -1,0 +1,16 @@
+red
+KOAK
+KSFO
+KSQL  A data base field?
+SAU
+
+#2299FF
+SAU>180,1   1 NM South of SAU
+KOAK>090,2  2 NM East of KOAK
+
+yellow
+37.91299054,-122.53176858  Single point
+
+green
+CC~KSFO     Disambiguation: CC closest to KSFO
+(VOR)SAC    Disambiguation: restrict to VORs

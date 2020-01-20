@@ -1,0 +1,14 @@
+== resources/apt.extract ==
+
+When airport data is needed and no custom source is provided, ATC-pie extracts
+a default specification from a huge world-wide source file, and saves it here
+for quicker access in later runs.
+
+If you customise extracted files, avoid losing your specs on clean-up by moving
+and renaming the edited files:
+- see "resources/apt" for individual airport specs (named by ICAO code);
+- see "resources/nav" for world locations and names ("AD-positions-names").
+
+It is safe to delete files here; they will be generated again next time they
+are needed. The directory itself should not be deleted.
+

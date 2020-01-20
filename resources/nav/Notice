@@ -1,0 +1,29 @@
+
+== resources/nav ==
+
+In this directory, you may deposit six different spec files:
+  1. "custom_navaid" to override the default data for navaids (VOR, NDB...);
+  2. "custom_fix" to override the default data for fixes and RNAV points;
+  3. "custom_awy" to override the default data for airways;
+  4. "custom_ad" to customise the world airport positions and names;
+  5. "route-presets" to specify routes for easy recall in FPLs and strips;
+  6. "AD-entry-exit" for airport entry/exit points (enables route suggestions).
+
+Files 1 through 3 must follow the X-plane 10 format for files "earth_nav.dat",
+"earth_fix.dat" and "earth_awy.dat", respectively.
+
+File 4 contains a world-wide list of airport names and positions, one per line:
+  ICAO  lat,lon  Airfield long name
+It must end with a line containing a single integer count of all entries.
+
+In file 5, any number of route presets can be listed for every pair of end
+airports (origin, destination). Using white space as the first two separators,
+each line is of the form:
+  ICAO_1 ICAO_2  route saved from origin ICAO_1 to destination ICAO_2
+
+File 6 is a list of entry and exit points connecting airports to the world
+airway network, used by ATC-pie when suggesting routes. Each line is of either
+either following form, "entry" and "exit" being fixed tokens (verbatim):
+  ICAO_DEP exit  navpoint  [optional leg spec before navpoint, e.g. "SID"]
+  ICAO_ARR entry navpoint  [optional leg spec after navpoint, e.g. "STAR"]
+

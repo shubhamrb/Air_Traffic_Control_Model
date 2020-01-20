@@ -1,0 +1,15 @@
+== resources/apt ==
+
+This is where to place your custom airport data files, named after their
+respective ICAO codes as follows: "ICAO.dat". They should follow the X-plane
+"apt.dat" format.
+
+Fresh source files for airports can be found on the X-plane gateway, directly
+accessible from the system menu. Alternatively, you may touch up the included
+data, e.g. to modify a single radio frequency or parking position label. To do
+this, edit the extracted file for the airport (see "resources/apt.extract") and
+save it here with the right extension.
+
+If you mess up an airport and are unable to clean its spec, just delete the
+corresponding file here to revert to the default state.
+

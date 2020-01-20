@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+	<meta name="qrichtext" content="1" />
+	<style type="text/css">p, li { white-space: pre-wrap; }</style>
+</head>
+
+<body>
+
+<h1>Keyboard and text input</h1>
+
+<h2>Shortcuts</h2>
+
+<p>Note that a lot more shortcuts exist, referenced directly in the application menus.</p>
+
+<p>Function keys:</p>
+<ul>
+	<li>F1: open quick reference window</li>
+	<li>F2: create new blank strip (with SHIFT: link to selection)</li>
+	<li>F3: create new flight plan (with SHIFT: link to selected strip)</li>
+	<li>F5/F6: start a timer (with SHIFT: force restart if already running)</li>
+	<li>F7: raise navigator and focus filter</li>
+	<li>F8: raise radio text chat panel and focus input message line (with SHIFT: ATC text chat)</li>
+</ul>
+
+<p>Other:</p>
+<ul>
+	<li>CTRL: push-to-talk key. Acts on all radios whose &quot;kbd PTT&quot; boxes are ticked, and in solo for voice instruction recognition. Works within major dialogs.</li>
+	<li>Single dot character (&quot;.&quot;) in an airport input field: fills with the current ICAO position (airport mode only). Use as a shortcut from/to base airport when filling details.</li>
+</ul>
+
+<h2>Point specification</h2>
+
+<p>In various occasions, e.g. to position your CTR radar centre, you will want to specify location points. To specify a point, you may either:</p>
+<ul>
+	<li>write lat/lon Earth coordinates, separated by a comma with no space (two formats are accepted: 35.8765,-90.567 or 48&deg;51'24''N,2&deg;21'03''E; you may replace the &deg;/'/'' symbols by d/m/s respectively to avoid encoding problems);</li>
+	<li>spell a navpoint code (VOR, airfield...);</li>
+	<li>prefix a navpoint code with a parenthesed type, e.g. &quot;(VOR)ABC&quot;, to disambiguate between navpoints with identical names, selecting by type (accepted types: AD, VOR, NDB, FIX, ILS, RNAV);</li>
+	<li>use the &quot;namedpoint~refpoint&quot; syntax to choose between navpoints with identical names, selecting the closest to a reference point;</li>
+	<li>append a &quot;&gt;radial,distance&quot; suffix to any base point specification to move it by a distance in NM along a true radial (&quot;~&quot; has precedence over &quot;&gt;&quot;).</li>
+</ul>
+
+<p>For example:</p>
+<ul>
+	<li>48&deg;51'24''N,2&deg;21'03''E is the centre of Paris;</li>
+	<li>SULED&gt;180,1.5 is a point 1.5 NM due true South of navpoint SULED;</li>
+	<li>IA~KIAD is the point named IA that is nearest to KIAD (with a 200 NM map range, you would see two from KPIT so the name alone will not be enough);</li>
+	<li>(NDB)MEN~(AD)LFMT is the NDB whose code is MEN that is the closest to the airfield whose code is LFMT.</li>
+</ul>
+
+</body>
+</html>
+

@@ -1,0 +1,2256 @@
+# ICAO designator  |  X-plane category  |  WTC  |  Cruise speed
+
+A002	props	L	-		#	IRKUT	A-002
+A1	props	M	-		#	DOUGLAS	Skyraider
+A10	jets	M	-		#	FAIRCHILD	A-10 Thunderbolt 2
+A109	helos	L	-		#	AGUSTA	A-109 (Grand/Power), MH-68 Stingray
+A119	helos	L	-		#	AGUSTA	A-119 Koala
+A122	props	L	-		#	AEROTEC	A-122 Uirapuru, T-23
+A124	heavy	H	-		#	ANTONOV	An-124 Ruslan
+A129	helos	L	-		#	AGUSTA	A-129 Mangusta
+A139	helos	L	-		#	BELL-AGUSTA	AB-139
+A140	turboprops	M	-		#	ANTONOV	An-140
+A148	jets	M	-		#	ANTONOV	An-148
+A19	props	L	-		#	AEROPRACT	A-19
+A20	props	M	-		#	DOUGLAS	A-20 Havoc
+A205	props	L	-		#	OSKBES-MAI	MAI-205
+A21	props	L	-		#	AEROPRACT	A-21 Solo
+A210	props	L	-		#	AQUILA	A-210
+A211	props	L	-		#	ALFA-M	A-211
+A22	props	L	-		#	SADLER	A-22 Piranha
+A223	props	L	-		#	OSKBES-MAI	MAI-223 Kityonok
+A225	heavy	H	497		#	ANTONOV	An-225 Mriya
+A23	props	L	-		#	AEROPRACT	A-23 Dragon
+A25	props	L	-		#	AEROPRACT	A-25 Breeze
+A27	props	L	-		#	AEROPRACT	A-27
+A270	turboprops	L	-		#	IBIS	Ae-270 Ibis/Spirit
+A2RT	helos	L	-		#	KAZAN	Ansat 2RT
+A3	jets	M	-		#	DOUGLAS	A-3 Skywarrior
+A306	heavy	H	518		#	AIRBUS	A-300(B4/C4/F4)-600
+A30B	heavy	H	-		#	AIRBUS	A-300(B2/B4/C4/F4)
+A310	heavy	H	-		#	AIRBUS	A-310
+A318	jets	M	510		#	AIRBUS	A-318
+A319	jets	M	510		#	AIRBUS	A-319, ACJ
+A320	jets	M	510		#	AIRBUS	A-320
+A321	jets	M	510		#	AIRBUS	A-321
+A33	props	L	-		#	AEROPRACT	A-33
+A332	heavy	H	540		#	AIRBUS	A-330-200
+A333	heavy	H	540		#	AIRBUS	A-330-300
+A342	heavy	H	537		#	AIRBUS	A-340-200
+A343	heavy	H	537		#	AIRBUS	A-340-300
+A345	heavy	H	543		#	AIRBUS	A-340-500
+A346	heavy	H	543		#	AIRBUS	A-340-600
+A37	jets	L	-		#	CESSNA	A-37 Dragonfly, 318
+A388	heavy	J	560		#	AIRBUS	A-380-800
+A3ST	heavy	H	-		#	AIRBUS	A-300ST Beluga/Super Transporter
+A4	jets	M	-		#	DOUGLAS	A-4 Skyhawk
+A50	heavy	H	-		#	BERIEV	A-50, Be-976
+A500	props	L	-		#	ADAM	A-500 CarbonAero
+A504	props	L	-		#	AVRO	504
+A6	jets	M	500		#	GRUMMAN	A-6 Intruder, EA-6 Prowler
+A660	turboprops	L	500		#	AYRES	S-2R-T660 Turbo Thrush
+A7	jets	M	-		#	VOUGHT	A-7 Corsair 2
+A700	jets	L	-		#	ADAM	A-700 AdamJet
+A743	jets	M	-		#	ANTONOV	An-74-300
+A748	turboprops	M	-		#	AVRO	748, C-91, HS-748/780 Andover
+A890	props	L	-		#	AVIATIKA	MAI-890
+A9	props	L	-		#	IMCO	Callair A-9
+A900	props	L	-		#	AVIATIKA	MAI-900 Acrobat
+A910	props	L	-		#	AVIATIKA	MAI-910/960 Interfly
+AA1	props	L	-		#	AMERICAN	AA-1 Tr2/Trainer/Yankee
+AA37	props	L	-		#	AEROPRACT	A-37
+AA5	props	L	-		#	AMERICAN	AA-5 Traveler
+AAT3	props	L	-		#	AERO	AT-3
+AB11	props	L	-		#	AERO BOERO	AB-115
+AB15	props	L	-		#	AERO BOERO	AB-150
+AB18	props	L	-		#	AERO BOERO	AB-180
+AB95	props	L	-		#	AERO BOERO	AB-95
+AC11	props	L	-		#	ROCKWELL	Commander 112/114
+AC4	props	L	-		#	LIGHT WING	AC-4
+AC50	props	L	-		#	AERO	Commander 500
+AC52	props	L	-		#	AERO	Commander 520
+AC56	props	L	-		#	AERO	Commander 560, U-4A
+AC5A	props	L	-		#	NANJING	AC-500 Aircar
+AC5M	props	L	-		#	AVIASTROITEL	AC-5M
+AC68	props	L	-		#	AERO	Commander 680, U-4B, U-9
+AC6L	props	L	-		#	AERO COMMANDER	680FL Grand Commander, 685 Commander
+AC72	props	L	-		#	AERO	Commander 720 Alti Cruiser
+AC80	turboprops	L	-		#	AERO COMMANDER	680 Turbo Commander
+AC90	turboprops	L	-		#	ROCKWELL	690 Jetprop Commander 840/Turbo Commander 690
+AC95	turboprops	L	-		#	ROCKWELL	695 Jetprop Commander 980/1000
+ACAM	props	L	-		#	LEZA-LOCKWOOD	Air Cam
+ACAR	props	L	-		#	AUSTER	J-5 Autocar
+ACED	props	L	-		#	POWELL	P-70 Acey Deucy
+ACJR	props	L	-		#	SPENCER	Air Car Junior
+ACPL	props	L	-		#	OPTION AIR	Acapella
+ACR2	props	L	-		#	ACRO SPORT	Acro-Sport 2
+ACRD	props	L	-		#	AVIA	Accord
+ACRO	props	L	-		#	ACRO SPORT	Acro-Sport 1, Super Acro-Sport
+ACSR	props	L	-		#	VICTA	Aircruiser
+AD20	props	L	-		#	NANJING UNIVERSITY	AD-200
+ADVE	props	L	-		#	AUSTER	J-5 Adventurer
+ADVN	props	L	-		#	ADVENTURE AIR	Adventurer
+AE45	props	L	-		#	AERO	45
+AEA1	props	L	-		#	AMERICAN EAGLE	A-1/101
+AEST	props	L	-		#	TED SMITH	Aerostar
+AG02	props	L	-		#	GATARD	AG-02 Poussin
+AGSH	props	L	-		#	AERO GARE	Sea Hawker
+AI10	props	L	-		#	IKAR	Ai-10 Ikar
+AIGT	props	L	-		#	AUSTER	J-5 Aiglet Trainer
+AIRD	props	L	-		#	BEAGLE	A-109 Airedale
+AIRL	props	L	-		#	AERONIX	Airelle
+AJET	jets	M	-		#	DASSAULT-BREGUET/DORNIER	Alpha Jet
+AK1	props	L	-		#	AKAFLIEG KARLSRUHE	AK-1
+AKRO	props	L	-		#	STEPHENS	Akro
+ALBU	props	L	-		#	AVIATION DEVELOPMENT	Alaskan Bushmaster
+ALC1	props	L	-		#	ALTAIR COELHO	AC-11
+ALGR	props	L	-		#	FANTASY AIR	Allegro
+ALH	helos	L	-		#	HINDUSTAN	ALH Dhruv
+ALIG	props	L	-		#	ARION	Lightning
+ALIZ	turboprops	M	-		#	BREGUET	1050 Alize
+ALO2	helos	L	-		#	SUD	SA-318/3180, SE-313/3130 Alouette 2
+ALO3	helos	L	-		#	SUD	SA-316/319, SE-3160 Alouette 3
+ALPI	props	L	-		#	AUSTER	J-5 Alpine
+AM3	props	L	-		#	AERMACCHI	AM-3
+AMX	jets	M	-		#	AMX	AMX Ghibli
+AN12	turboprops	M	-		#	ANTONOV	An-12
+AN2	props	L	-		#	ANTONOV	An-2
+AN22	turboprops	H	-		#	ANTONOV	An-22 Antheus
+AN24	turboprops	M	-		#	ANTONOV	An-24
+AN26	turboprops	M	-		#	ANTONOV	An-26
+AN28	turboprops	L	-		#	ANTONOV	An-28
+AN3	turboprops	L	-		#	ANTONOV	An-3
+AN30	turboprops	M	-		#	ANTONOV	An-30
+AN32	turboprops	M	-		#	ANTONOV	An-32 Firekiller/Sutlej
+AN38	turboprops	M	-		#	ANTONOV	An-38
+AN70	turboprops	M	-		#	ANTONOV	An-70
+AN72	jets	M	-		#	ANTONOV	An-72, An-74
+AN8	turboprops	M	-		#	ANTONOV	An-8
+ANGL	props	L	-		#	KING'S	44 Angel
+ANSN	props	L	-		#	AVRO	652 Anson
+ANST	helos	L	-		#	KAZAN	Ansat
+AP20	props	L	-		#	AEROPRAKT	A-20 Sky Cruiser/Super Cruiser/Varlet/Vista
+AP22	props	L	-		#	AEROPRAKT	A-22 Foxbat/Valor/Vision
+AP24	props	L	185		#	AEROPRAKT	A-24 Viking
+AP26	props	L	-		#	AEROPRAKT	A-26 Twin Vista
+AP28	props	L	-		#	AEROPRAKT	A-28 Victor
+AP36	props	L	-		#	AEROPRAKT	A-36 Vulcan
+APM2	props	L	-		#	ISSOIRE	APM-20 Lionceau, APM-21 Lion
+APM3	props	L	-		#	ISSOIRE	APM-30 Lion
+APUP	props	L	-		#	SUPAPUP	Aeropup
+AR11	props	L	-		#	AERONCA	11 Chief
+AR15	props	L	-		#	AERONCA	15 Sedan
+AR79	props	L	-		#	ARADO	Ar-79
+ARES	jets	L	-		#	RUTAN	151 Ares
+ARKS	props	L	-		#	ACEAIR	A-200 Aeriks 200
+ARON	props	L	-		#	GENERAL AVIA	F-220 Airone
+ARV1	props	L	-		#	ISLAND AIRCRAFT	ARV-1 Super 2
+ARVA	turboprops	L	-		#	IAI	101/102/201/202 Arava
+ARWF	props	L	-		#	ARROW	F Sport
+AS02	props	L	-		#	FFA	AS-202-15/18/26 Bravo
+AS14	props	L	-		#	SCHLEICHER	ASK-14
+AS16	props	L	-		#	SCHLEICHER	ASK-16
+AS20	props	L	-		#	SCHLEICHER	ASW-20TOP
+AS21	props	L	-		#	SCHLEICHER	ASK-21Mi
+AS22	props	L	-		#	SCHLEICHER	ASW-22BE/BLE/M
+AS24	props	L	-		#	SCHLEICHER	ASW-24E/TOP
+AS25	props	L	-		#	SCHLEICHER	ASH-25E/M/Mi/SL
+AS26	props	L	-		#	SCHLEICHER	ASH-26E
+AS28	props	L	-		#	SCHLEICHER	ASW-28E
+AS2T	turboprops	L	-		#	FFA	AS-202-32TP Turbine Bravo
+AS32	helos	M	-		#	AEROSPATIALE	AS-332 Super Puma/Tiger, AS-532 Cougar
+AS3B	helos	M	-		#	AEROSPATIALE	AS-332 Super Puma Mk2, AS-532 Cougar Mk2
+AS50	helos	L	-		#	AEROSPATIALE	AS-350 Astar/Ecureuil/SuperStar/Fennec
+AS55	helos	L	-		#	AEROSPATIALE	AS-355 Ecureuil 2/Twinstar, AS-555 Fennec
+AS65	helos	L	-		#	AEROSPATIALE	AS-365 Dauphin 2/Panther, AS-366 Dolphin, AS-565 Panther
+AS80	props	L	-		#	STARCK	AS-80 Holiday
+ASO4	props	L	-		#	ASSO AEREI	Asso 4 Whisky
+ASTR	jets	M	-		#	IAI	1125 Astra
+AT3	jets	M	-		#	AIDC	AT-3 Tzu-Chung
+AT3P	props	L	-		#	AIR TRACTOR	AT-300/301/401
+AT3T	turboprops	L	-		#	AIR TRACTOR	AT-302/400/402
+AT43	turboprops	M	240		#	ATR	ATR-42-200/300/320
+AT44	turboprops	M	-		#	ATR	ATR-42-400 (Surveyor)
+AT45	turboprops	M	-		#	ATR	ATR-42-500 (Surveyor)
+AT5P	props	L	-		#	AIR TRACTOR	AT-501
+AT5T	turboprops	L	-		#	AIR TRACTOR	AT-502/503
+AT6T	turboprops	L	-		#	AIR TRACTOR	AT-602
+AT72	turboprops	M	-		#	ATR	ATR-72
+AT8T	turboprops	M	-		#	AIR TRACTOR	AT-802 (Fire Boss)
+ATAC	props	L	-		#	AIRCRAFT TECHNOLOGIES	Acro 1
+ATG1	jets	L	-		#	ATG	ATG-1 Javelin
+ATIS	props	L	-		#	AIRCRAFT TECHNOLOGIES	Atlantis
+ATL	props	L	-		#	ROBIN	ATL
+ATLA	turboprops	M	-		#	BREGUET	1150 Atlantic
+ATP	turboprops	M	-		#	BRITISH AEROSPACE	ATP
+ATTL	props	L	-		#	EURONEF	ATTL-1
+AU11	props	L	-		#	Beagle-Auster	E-3 Auster AOP11
+AUJ2	props	L	-		#	AUSTER	J-2 Arrow
+AUJ4	props	L	-		#	AUSTER	J-4 Archer
+AUS3	props	L	-		#	TAYLORCRAFT	Auster 3, E
+AUS4	props	L	-		#	TAYLORCRAFT	Auster 4, G
+AUS5	props	L	-		#	TAYLORCRAFT	Auster 5 (Alpha), J
+AUS6	props	L	-		#	AUSTER	6A, Auster AOP6, K
+AUS7	props	L	-		#	AUSTER	Auster T7, Q
+AUS9	props	L	-		#	AUSTER	Auster AOP9, B5
+AV68	props	L	-		#	ALPLA	AVO-68 Samburo
+AVAM	props	L	-		#	LIGHT AERO	Avid Amphibian
+AVID	props	L	-		#	LIGHT AERO	Avid Flyer
+AVIN	props	L	-		#	AVRO	594/616 Avian
+AVK4	turboprops	L	-		#	AVTEK	400
+AVLN	turboprops	L	-		#	AIRMASTER	Avalon 680
+AVTR	props	L	-		#	AERO ADVENTURE	Aventura 2
+B06	helos	L	-		#	BELL	206 JetRanger/LongRanger, 406 Combat Scout, VH-4, TH-57 SeaRanger, OH-58 Kiowa (Warrior), TH-67 Creek, TH-206
+B06T	helos	L	-		#	BELL	206LT TwinRanger
+B1	heavy	H	650		#	ROCKWELL	B-1 Lancer
+B103	props	L	650		#	BERIEV	Be-103 Bekas
+B105	helos	L	650		#	MBB	BO-105 Twin Jet
+B13	props	L	650		#	AKAFLIEG BERLIN	B-13
+B14A	props	L	650		#	BELLANCA	14 Cruisair (Senior), Cruisemaster, Junior
+B14B	props	L	650		#	DOWNER	14 Bellanca 260
+B14C	props	L	650		#	BELLANCA	14 Bellanca 260A/B/C
+B17	props	M	650		#	BOEING	B-17 Flying Fortress
+B18T	turboprops	L	650		#	BEECH	18 (turbine)
+B190	turboprops	M	650		#	BEECH	1900, C-12J
+B2	heavy	H	560		#	NORTHROP GRUMMAN	B-2 Spirit
+B209	props	L	560		#	MBB	BO-209 Monsun
+B212	helos	L	560		#	BELL	212 Twin Two-Twelve, UH-1N, VH-1
+B214	helos	M	560		#	BELL	214A Isfahan, 214B, 214C BigLifter
+B222	helos	L	560		#	BELL	222
+B23	props	M	560		#	DOUGLAS	B-23 Dragon
+B230	helos	L	560		#	BELL	230
+B24	props	M	560		#	CONSOLIDATED	B-24 Liberator
+B25	props	M	560		#	NORTH AMERICAN	B-25 Mitchell
+B26	props	M	560		#	DOUGLAS	B-26 Invader
+B26M	props	M	560		#	MARTIN	B-26 Marauder
+B29	props	M	560		#	BOEING	B-29 Superfortress
+B305	helos	L	-		#	BRANTLY	305
+B350	turboprops	L	-		#	BEECH	300 (B300) Super King Air 350
+B36T	turboprops	L	-		#	BEECH	36 Bonanza (turbine)
+B407	helos	L	-		#	BELL	407, ARH-70
+B412	helos	L	-		#	BELL	412 (Arapaho/Sentinel), Griffin
+B427	helos	L	-		#	BELL	427
+B429	helos	L	-		#	BELL	429 GlobalRanger
+B430	helos	L	-		#	BELL	430
+B461	jets	M	-		#	BRITISH AEROSPACE	BAe-146-100 (Statesman)
+B462	jets	M	-		#	BRITISH AEROSPACE	BAe-146-200 (Quiet Trader/Statesman)
+B463	jets	M	-		#	BRITISH AEROSPACE	BAe-146-300
+B47G	helos	L	-		#	BELL	47G (Trooper), 47D, 47H, H-13
+B47J	helos	L	-		#	BELL	47J Ranger, H-13
+B47T	helos	L	-		#	SOLOY	Bell 47
+B52	heavy	H	525		#	BOEING	B-52 Stratofortress
+B60	props	L	-		#	BOISAVIA	B-60/B-601...606 Mercurey
+B609	turboprops	M	-		#	BELL-AGUSTA	BA-609
+B701	jets	M	-		#	BOEING	707-100
+B703	heavy	H	480		#	BOEING	707-300, C-18, C-137, E-8 J-Stars, T-17
+B712	jets	M	-		#	BOEING	717-200 (Business Express)
+B720	jets	M	-		#	BOEING	720
+B721	jets	M	540		#	BOEING	727-100, C-22
+B722	jets	M	540		#	BOEING	727-200
+B731	jets	M	485		#	BOEING	737-100
+B732	jets	M	485		#	BOEING	737-200 (Surveiller), CT-43, VC-96
+B733	jets	M	485		#	BOEING	737-300
+B734	jets	M	-		#	BOEING	737-400
+B735	jets	M	-		#	BOEING	737-500
+B736	jets	M	485		#	BOEING	737-600
+B737	jets	M	511		#	BOEING	737-700, BBJ, C-40 Clipper
+B738	jets	M	511		#	BOEING	737-800, BBJ2
+B739	jets	M	511		#	BOEING	737-900, BBJ3
+B741	heavy	H	570		#	BOEING	747-100
+B742	heavy	H	570		#	BOEING	747-200, E-4, VC-25
+B743	heavy	H	-		#	BOEING	747-300
+B744	heavy	H	570		#	BOEING	747-400 (international, winglets), AL-1
+B74D	heavy	H	-		#	BOEING	747-400 (domestic, no winglets)
+B74R	heavy	H	-		#	BOEING	747SR
+B74S	heavy	H	-		#	BOEING	747SP
+B752	jets	M	555		#	BOEING	757-200, C-32
+B753	jets	M	555		#	BOEING	757-300
+B762	heavy	H	530		#	BOEING	767-200, KC-767
+B763	heavy	H	530		#	BOEING	767-300
+B764	heavy	H	530		#	BOEING	767-400
+B772	heavy	H	560		#	BOEING	777-200/ER
+B773	heavy	H	560		#	BOEING	777-300
+B77L	heavy	H	560		#	Boeing	777-200LR/LRF
+B77W	heavy	H	560		#	Boeing	777-300ER
+B783	heavy	H	567		#	BOEING	787-3 Dreamliner
+B788	heavy	H	567		#	BOEING	787-8 Dreamliner
+B789	heavy	H	567		#	BOEING	787-9 Dreamliner
+BA11	jets	M	-		#	BRITISH AEROSPACE	BAC-111 One-Eleven
+BABY	helos	L	-		#	CANADIAN HOME ROTORS	Baby Belle, Safari
+BALL	-	-	-		#	(any manufacturer)	Balloon
+BAR6	props	L	-		#	BARR	BarrSix
+BARC	props	L	-		#	BUETHE	Barracuda
+BASS	props	L	-		#	BEAGLE	Basset, B-206
+BBAT	props	L	-		#	BRADLEY	BA-100 Aerobat
+BBIR	props	L	-		#	HOVEY	Beta Bird
+BCA3	props	L	-		#	BUHL	CA-3 Sport Airsedan
+BCAT	props	L	-		#	GRUMMAN	F8F Bearcat
+BD10	jets	L	-		#	BEDE	BD-10
+BD12	props	L	-		#	BEDE	BD-12
+BD17	props	L	-		#	BEDE	BD-17 Nuggett
+BD4	props	L	-		#	BEDE	BD-4
+BD5	props	L	-		#	BEDE	BD-5B/D/G Micro
+BD5J	jets	L	-		#	BEDE	BD-5J Micro
+BD5T	turboprops	L	-		#	BEDE	BD-5TP Micro
+BDOG	props	L	-		#	SCOTTISH AVIATION	SA-3 Bulldog
+BE10	turboprops	L	-		#	BEECH	100 King Air, U-21F Ute
+BE12	turboprops	M	-		#	BERIEV	Be-12 Tchaika
+BE17	props	L	-		#	BEECH	17 Staggerwing, C-43 Traveler
+BE18	props	L	-		#	BEECH	18 (piston), AT-7 Navigator, AT-11 Kansan, C-45/SNB Expeditor
+BE19	props	L	-		#	BEECH	19 Musketeer Sport/Sport
+BE20	turboprops	L	-		#	BEECH	200 Super King Air, 1300 Commuter, C-12 Huron
+BE23	props	L	-		#	BEECH	23 Musketeer/Sundowner
+BE24	props	L	-		#	BEECH	24 Musketeer Super/Sierra
+BE30	turboprops	L	-		#	BEECH	300 Super King Air
+BE32	turboprops	M	-		#	BERIEV	Be-30/32
+BE33	props	L	-		#	BEECH	33 Bonanza/Debonair
+BE35	props	L	-		#	BEECH	35 Bonanza
+BE36	props	L	-		#	BEECH	36 Bonanza (piston)
+BE40	jets	M	-		#	BEECH	400 Beechjet, T-1 Jayhawk
+BE50	props	L	-		#	BEECH	50 Twin Bonanza, U-8 Seminole
+BE55	props	L	-		#	BEECH	55 Baron, C-55, T-42 Cochise
+BE56	props	L	-		#	BEECH	56 Turbo Baron
+BE58	props	L	-		#	BEECH	58 Baron
+BE60	props	L	-		#	BEECH	60 Duke
+BE65	props	L	-		#	BEECH	65 Queen Air, U-8F Seminole
+BE70	props	L	-		#	BEECH	70 Queen Air
+BE76	props	L	-		#	BEECH	76 Duchess
+BE77	props	L	-		#	BEECH	77 Skipper
+BE80	props	L	-		#	BEECH	80 Queen Air/Zamir
+BE88	props	L	-		#	BEECH	88 Queen Air
+BE95	props	L	-		#	BEECH	95 Travel Air
+BE99	turboprops	L	-		#	BEECH	99 Airliner
+BE9L	turboprops	L	-		#	BEECH	90 King Air, T-44, VC-6
+BE9T	turboprops	L	-		#	BEECH	90 (F90) King Air
+BEAR	props	L	-		#	AVIPRO	RB-4 Bearhawk
+BELF	turboprops	M	-		#	SHORT	SC-5 Belfast
+BER2	jets	M	-		#	BERIEV	Be-200 Altair
+BER4	jets	M	-		#	BERIEV	A-40 Albatross
+BETA	props	L	-		#	ROLLASON	Beta
+BEVR	props	L	-		#	ASAP	Beaver
+BFIT	props	L	-		#	BRISTOL	F-2B Fighter
+BILO	props	L	-		#	PENA	Bilouis
+BIPL	props	L	-		#	EAA	Biplane
+BIRD	props	L	-		#	TAYLOR	TA-2/3 Bird
+BK17	helos	L	-		#	MBB-KAWASAKI	BK-117
+BKUT	props	L	-		#	EXPERIMENTAL AVIATION	Berkut
+BL11	props	L	-		#	BLERIOT	11
+BL17	props	L	-		#	BELLANCA	17 (Turbo/Turbo Super) Viking
+BL19	props	L	-		#	BELLANCA	19 Skyrocket
+BL8	props	L	-		#	BELLANCA	8 Decathlon/Scout
+BLBU	props	L	-		#	AMEUR	Altania, Balbuzard, Baljims
+BLCF	heavy	H	-		#	BOEING	747-400LCF Dreamlifter
+BLEN	props	L	-		#	BRISTOL	149 Blenheim/Bolingbroke
+BLKS	props	L	-		#	OLDFIELD	(Buddy/Super) Baby Lakes
+BM6	props	L	-		#	MARANDA	BM-6 Lark
+BN2P	props	L	-		#	BRITTEN-NORMAN	BN-2 Defender/Islander/Maritime Defender
+BN2T	turboprops	L	-		#	BRITTEN-NORMAN	BN-2T Defender 4000/Turbine Islander
+BOLT	props	L	-		#	STEEN	Skybolt
+BOOM	props	L	-		#	RUTAN	202 Boomerang
+BPAT	props	L	-		#	R & B	Bearhawk Patrol
+BR14	props	L	-		#	BREGUET	14
+BR54	props	L	-		#	BARNETT	BRC-540
+BRAV	props	L	-		#	TECNAM	P-2004 Bravo
+BRB2	helos	L	-		#	BRANTLY	B-2
+BREZ	props	L	-		#	AEROSTYLE	Breezer
+BROU	props	L	-		#	MAX HOLSTE	MH-1521 Broussard
+BS60	turboprops	L	-		#	BEECH-SFERMA	60 Marquis
+BSCA	heavy	H	-		#	BOEING	747SCA Shuttle Carrier
+BSTP	helos	M	-		#	BELL	214ST SuperTransport
+BSTR	props	L	-		#	CUSTOM FLIGHT	Bright Star
+BTUB	props	L	-		#	KIMBREL	Dormoy Bathtub
+BU20	props	L	-		#	AIRCRAFT HYDRO-FORMING	Bushmaster 2000
+BU31	props	L	-		#	BUCKER	BU-131 Jungmann
+BU33	props	L	-		#	BUCKER	BU-133 Jungmeister
+BU81	props	L	-		#	BUCKER	BU-181 Bestmann
+BUC	jets	M	800		#	HAWKER SIDDELEY	Buccaneer
+BUCA	props	L	800		#	KEUTHAN	Buccaneer
+BULT	props	L	-		#	BROKAW	BJ-520 Bullet
+BX2	props	L	-		#	BRANDLI	BX-2 Cherry
+C02T	turboprops	L	-		#	CESSNA	402 (turbine)
+C04T	turboprops	L	-		#	CESSNA	404 (turbine)
+C06T	turboprops	L	-		#	CESSNA	206 (turbine)
+C07T	turboprops	L	-		#	CESSNA	207 (turbine)
+C08T	turboprops	L	-		#	SOLOY	208 Dual-Pac Caravan/Pathfinder 21
+C1	jets	M	-		#	KAWASAKI	C-1
+C101	jets	L	-		#	CASA	C-101 Aviojet, A-36 Halcun, E-25 Mirlo
+C10T	turboprops	L	-		#	CESSNA	P210 (turbine)
+C119	props	M	-		#	FAIRCHILD	C-119/R4Q Flying Boxcar
+C120	props	L	-		#	CESSNA	120
+C123	props	M	-		#	FAIRCHILD	C-123 Provider
+C125	props	M	-		#	NORTHROP	C-125 Raider
+C130	turboprops	M	-		#	LOCKHEED	C-130 Hercules, AC-130 Spectre, L-100/182/282/382
+C133	turboprops	M	-		#	DOUGLAS	C-133 Cargomaster
+C135	heavy	H	-		#	BOEING	C-135 Stratolifter
+C140	props	L	-		#	CESSNA	140
+C141	heavy	H	-		#	LOCKHEED	C-141 Starlifter
+C14T	turboprops	L	-		#	CESSNA	414 (turbine)
+C15	jets	M	-		#	MCDONNELL DOUGLAS	YC-15
+C150	props	L	-		#	CESSNA	150 (Aerobat/Commuter)
+C152	props	L	-		#	CESSNA	152 (Aerobat)
+C160	turboprops	M	-		#	TRANSALL	C-160
+C162	props	L	-		#	CESSNA	162 SkyCatcher
+C17	heavy	H	-		#	MCDONNELL DOUGLAS	C-17 Globemaster 3
+C170	props	L	-		#	CESSNA	170
+C172	props	L	140		#	CESSNA	172 Cutlass/Skyhawk, T-41 Mescalero
+C175	props	L	-		#	CESSNA	175 Skylark
+C177	props	L	-		#	CESSNA	177 Cardinal
+C180	props	L	-		#	CESSNA	180 Skywagon 180, U-17C
+C182	props	L	-		#	CESSNA	182 Skylane, T182 Turbo Skylane
+C185	props	L	-		#	CESSNA	185 Skywagon, A185 AgCarryall/Skywagon 185, U-17
+C188	props	L	-		#	CESSNA	188 AgPickup/AgWagon, A188 AgTruck/AgWagon, T188 AgHusky
+C190	props	L	-		#	CESSNA	190
+C195	props	L	-		#	CESSNA	195, LC-126
+C2	turboprops	M	-		#	GRUMMAN	C-2 Greyhound
+C205	props	L	-		#	CESSNA	205
+C206	props	L	-		#	CESSNA	206, P206, T206, TP206, TU206, U206 (Turbo) Super Skywagon/(Turbo) Super Skylane/(Turbo) Skywagon 206/(Turbo) Stationair
+C207	props	L	-		#	CESSNA	207 Skywagon 207/Stationair, T207 Turbo Skywagon 207/Stationair
+C208	turboprops	L	-		#	CESSNA	208 Caravan 1/(Super) Cargomaster/Grand Caravan, C-98, U-27
+C210	props	L	-		#	CESSNA	210 (Centurion), T210 Turbo Centurion
+C212	turboprops	M	-		#	CASA	C-212 Aviocar, C-41
+C21T	turboprops	L	-		#	CESSNA	421 (turbine)
+C22J	jets	L	-		#	CAPRONI VIZZOLA	C-22J Ventura
+C25A	jets	L	-		#	CESSNA	525A Citation CJ2
+C25B	jets	L	-		#	CESSNA	525B Citation CJ3
+C270	props	L	-		#	CAUDRON	C-270/272/275 Luciole
+C27J	turboprops	M	-		#	ALENIA	C-27J Spartan
+C295	turboprops	M	-		#	CASA	C-295 Persuader, T-21
+C303	props	L	-		#	CESSNA	T303 Crusader
+C30J	turboprops	M	-		#	LOCKHEED MARTIN	C-130J Hercules
+C310	props	L	-		#	CESSNA	310, T310, U-3
+C320	props	L	-		#	CESSNA	320 (Executive) Skyknight
+C335	props	L	-		#	CESSNA	335
+C336	props	L	-		#	CESSNA	336 Skymaster
+C337	props	L	-		#	CESSNA	(T)337 (Turbo) Super Skymaster, O-2
+C340	props	L	-		#	CESSNA	340
+C365	turboprops	L	-		#	EKW	C-3605
+C402	props	L	-		#	CESSNA	401, 402 Businessliner/Utililiner
+C404	props	L	-		#	CESSNA	404 Titan
+C411	props	L	-		#	CESSNA	411
+C414	props	L	-		#	CESSNA	414 Chancellor
+C42	props	L	-		#	IKARUS	C-42 Bison
+C421	props	L	-		#	CESSNA	421 Executive Commuter/Golden Eagle
+C425	turboprops	L	-		#	CESSNA	425 Conquest 1/Corsair
+C441	turboprops	L	-		#	CESSNA	441 Conquest/Conquest 2
+C46	props	M	-		#	CURTISS	C-46 Commando, CW-20
+C5	heavy	H	-		#	LOCKHEED	C-5 Galaxy
+C500	jets	L	-		#	CESSNA	500 Citation/Citation 1
+C501	jets	L	-		#	CESSNA	501 Citation 1SP
+C510	jets	L	-		#	CESSNA	510 Citation Mustang
+C525	jets	L	-		#	CESSNA	525 Citation CJ1/CitationJet
+C526	jets	L	-		#	CESSNA	526 CitationJet
+C550	jets	L	-		#	CESSNA	550 Citation 2/Citation Bravo, S550 Citation S2, 552, T-47, U-20
+C551	jets	L	-		#	CESSNA	551 Citation 2SP
+C560	jets	M	-		#	CESSNA	560 Citation 5 (Ultra, Ultra Encore), OT-47, TR-20, UC-35
+C56X	jets	M	-		#	CESSNA	560XL Citation Excel/Citation XLS
+C650	jets	M	-		#	CESSNA	650 Citation 3/6/7
+C680	jets	M	-		#	CESSNA	680 Citation Sovereign
+C72R	props	L	-		#	CESSNA	172RG Cutlass RG
+C750	jets	M	-		#	CESSNA	750 Citation 10
+C77R	props	L	-		#	CESSNA	177RG Cardinal RG
+C82	props	M	-		#	FAIRCHILD	C-82 Packet
+C82R	props	L	-		#	CESSNA	R182 Skylane RG, TR182 Turbo Skylane RG
+C97	props	M	-		#	BOEING	C-97 Stratofreighter
+CA12	turboprops	L	-		#	COMP AIR	CA-12 Comp Air 12
+CA19	props	L	-		#	COMMONWEALTH	CA-13/19 Boomerang
+CA1P	props	L	-		#	AEROCOMP	CA-10 Comp Air 10
+CA1T	turboprops	L	-		#	AEROCOMP	CA-10T Comp Air 10T, CA-10XLT Comp Air 10XLT
+CA25	props	L	-		#	COMMONWEALTH	CA-25 Winjeel
+CA3	props	L	-		#	AEROCOMP	CA-3 Comp Air 3
+CA4	props	L	-		#	AEROCOMP	CA-4 Comp Air 4/Comp Monster
+CA6	props	L	-		#	AEROCOMP	CA-6 Comp Air 6
+CA61	props	L	-		#	CVJETKOVIC	CA-61 Mini Ace
+CA65	props	L	-		#	CVJETKOVIC	CA-65 Skyfly
+CA7P	props	L	-		#	AEROCOMP	CA-7P Comp Air 7P, CA-7SL Comp Air 7SL
+CA7T	turboprops	L	-		#	AEROCOMP	CA-7SLX Comp Air 7SLX, CA-7T Comp Air 7T
+CA8	turboprops	L	-		#	AEROCOMP	CA-8 Comp Air 8
+CABN	props	L	-		#	PARAMOUNT	Cabinaire
+CAD2	props	L	-		#	CLASS	Bush Caddy R-80/120
+CAD4	props	L	-		#	CLASS	Bush Caddy L-160/162/164
+CAJ	jets	L	-		#	AEROCOMP	CA-J Comp Air Jet
+CAML	props	L	-		#	SOPWITH	Camel
+CAMP	props	L	-		#	PIETENPOL	B-4 Aircamper
+CAN4	props	L	-		#	CAMPANA	AN-4
+CAPL	props	L	-		#	FLIGHTWORKS	Capella
+CAR	props	L	-		#	AEROCAR	Aerocar
+CARV	props	M	-		#	AVIATION TRADERS	ATL-98 Carvair
+CASS	props	L	-		#	CASSUTT	Special
+CAT	props	M	-		#	CONSOLIDATED	PBY Catalina
+CAT1	props	L	-		#	CREATIVE FLIGHT	MPA Aerocat SR
+CAT2	props	L	-		#	CREATIVE FLIGHT	MPA Aerocat TR
+CAW	props	L	-		#	CESSNA	AW
+CB1	props	L	-		#	HATZ	CB-1 Biplane
+CCOP	props	L	-		#	CARTERCOPTERS	CarterCopter
+CD2	turboprops	L	-		#	CLAUDIUS DORNIER	CD-2 Seastar
+CDC6	props	L	-		#	CESSNA	DC-6
+CDW1	props	L	-		#	CHILTON	DW-1
+CE15	props	L	-		#	CHERNOV	Che-15
+CE22	props	L	-		#	CHERNOV	Che-22 Corvette
+CE23	props	L	-		#	CHERNOV	Che-23
+CE25	props	L	-		#	CHERNOV	Che-25
+CE27	props	L	-		#	CHERNOV	Che-27
+CE43	props	L	-		#	CERVA	CE-43 Guepard
+CEGL	props	L	-		#	CELAIR	Eagle 300
+CELR	props	L	-		#	MIRAGE	Celerity
+CENT	props	L	-		#	FOUND	100 Centennial
+CFRE	props	L	-		#	COLYAER	Freedom/Mascato
+CG3	props	L	-		#	CAUDRON	G-3
+CGAN	props	L	-		#	COLYAER	Gannet
+CH1	turboprops	L	-		#	AIDC	CH-1 Chung-Tsing
+CH10	props	L	-		#	ZENAIR	CH-100 Mono-Zenith
+CH15	props	L	-		#	ZENAIR	CH-150 Acro-Zenith
+CH18	props	L	-		#	ZENAIR	CH-180 Super Acro-Zenith
+CH20	props	L	-		#	ZENAIR	CH-200 Zenith
+CH25	props	L	-		#	ZENAIR	CH-250 Zenith
+CH2T	props	L	-		#	ZENAIR	CH-2000 Zenith
+CH30	props	L	-		#	ZENAIR	CH-300 Tri-Zenith
+CH40	props	L	-		#	CHAMPION	402 Lancer
+CH50	props	L	-		#	ZENAIR	CH-50 Mini Zenith
+CH60	props	L	-		#	ZENAIR	CH-600 Zodiac, CH-601 Zodiac/Super Zodiac
+CH62	props	L	-		#	ZENAIR	CH-620 Gemini
+CH64	props	L	-		#	ZENAIR	CH-640 Zodiac
+CH7	helos	L	-		#	HELI-SPORT	CH-7 Kompress
+CH70	props	L	-		#	ZENAIR	CH-701 Stol
+CH7A	props	L	-		#	AERONCA	7 Champion/Traveler, L-16
+CH7B	props	L	-		#	CHAMPION	7 Sky-Trac/Challenger/Citabria/DX'er/Olympia
+CH80	props	L	-		#	ZENAIR	CH-801 Stol
+CHAN	props	L	-		#	CADCOR	Chanute
+CHCS	props	L	-		#	NOIN	Choucas
+CHGO	props	L	-		#	KOREAN AIR	CHK-91 Chang-Gong 91
+CHIF	helos	L	-		#	PAWNEE	Chief
+CHIN	props	L	-		#	ASAP	Chinook
+CHIP	props	L	-		#	LEGER	Super-Chipmunk
+CHR1	props	L	-		#	ELMWOOD	CA-05 Christavia Mk1
+CHR4	props	L	-		#	ELMWOOD	CH-8 Christavia Mk4
+CHSY	props	L	-		#	CHAYAIR	Sycamore
+CICA	props	L	-		#	HYDROPLANE	Cicada
+CJ1	props	L	-		#	CORBY	CJ-1 Starlet
+CJ6	props	L	-		#	NANCHANG	CJ-6
+CKUO	jets	M	-		#	AIDC	F-CK-1 Ching-Kuo
+CL2P	props	M	-		#	CANADAIR	CL-215, UD-13 (piston)
+CL2T	turboprops	M	200		#	CANADAIR	CL-215T, CL-415 (SuperScooper), UD-13 (turbine)
+CL30	jets	M	-		#	BOMBARDIER	BD-100 Challenger 300
+CL41	jets	L	-		#	CANADAIR	CL-41/CT-114 Tutor
+CL44	turboprops	M	-		#	CANADAIR	CL-44 Forty Four
+CL4G	turboprops	M	-		#	CONROY	CL-44-O Guppy
+CL60	jets	M	-		#	CANADAIR	CL-600 Challenger 600/601/604/605, C-143
+CL8	props	L	-		#	CARRIOU	CL-8 RSA Club
+CLA	props	L	-		#	CALLAIR	A-2/3/4
+CLB1	props	L	-		#	IMCO	Callair B-1
+CLBR	props	L	-		#	FISHER AERO	Celebrity
+CMA3	props	L	-		#	COLYAER	Martin 3
+CMAS	props	L	-		#	CESSNA	C-145/165 Airmaster, C-34/37, C-38 Airmaster
+CMD1	props	L	-		#	AIR COMMAND	Commander 147
+CMDE	props	L	-		#	AIR COMMAND	Commander Elite Side-by-Side
+CMDT	props	L	-		#	AIR COMMAND	Commander Elite Tandem
+CN12	props	L	-		#	CIRCA	Nieuport 12-7/8
+CN35	turboprops	M	-		#	CASA	CN-235 Persuader, HC-144
+CNBR	jets	M	-		#	ENGLISH ELECTRIC	Canberra
+CNDR	turboprops	L	-		#	GENERAL AVIA	F-20TP Condor
+CNGP	props	L	-		#	Cessna	NGP
+CNUK	props	L	-		#	FLEET	80 Canuck
+COAR	props	L	-		#	COBRA	Arrow
+COBR	props	L	-		#	DEBORDE-ROLLAND	Cobra
+COL3	props	L	-		#	LANCAIR	LC-40 Columbia 300, LC-42 Columbia 350
+COL4	props	L	-		#	LANCAIR	LC-41 Columbia 400
+COMU	helos	L	-		#	HELICOM	H-1 Commuter
+CONC	heavy	H	1340		#	AEROSPATIALE-BAC	Concorde
+CONI	props	M	340		#	LOCKHEED	L-049/749 Constellation, L-1049 Super Constellation, C-121, R7V
+COOT	props	L	-		#	TAYLOR	(Super) Coot
+CORO	props	L	-		#	CORVUS	Corone
+CORR	props	L	-		#	SIVEL	SD-27 Corriedale
+CORS	props	M	-		#	CHANCE VOUGHT	F4U Corsair
+COUG	props	L	-		#	NESMITH	Cougar
+COUR	props	L	-		#	HELIO	H-250...800 (Strato/Super) Courier, U-10
+COY2	props	L	-		#	RANS	S-6 Coyote 2
+COZY	props	L	-		#	RUTAN	Cozy
+CP10	props	L	-		#	MUDRY	CAP-10
+CP13	props	L	-		#	PIEL	CP-1310/1315/1330 Super Emeraude
+CP20	props	L	-		#	MUDRY	CAP-20
+CP21	props	L	-		#	MUDRY	CAP-21
+CP22	props	L	-		#	CAP AVIATION	CAP-222
+CP23	props	L	-		#	MUDRY	CAP-230/231/232
+CP30	props	L	-		#	PIEL	CP-30/301...319 Emeraude
+CP32	props	L	-		#	PIEL	CP-320/325/328 Super Emeraude
+CP60	props	L	-		#	PIEL	CP-60/601 Diamant, CP-604...615 Super Diamant
+CP65	props	L	-		#	PORTERFIELD	CP-65 Collegiate
+CP75	props	L	-		#	PIEL	CP-70/701/750/751/760 Beryl
+CP80	props	L	-		#	PIEL	CP-80/801/802 Zephir
+CP90	props	L	-		#	PIEL	CP-90 Pinocchio
+CPNA	props	L	-		#	PENA	Capena
+CPUP	props	L	-		#	CULP	Sopwith Pup
+CR10	props	L	-		#	DYN'AERO	CR-100/110/120
+CRA1	props	L	-		#	CRANFIELD	A-1 Eagle
+CRAC	props	L	-		#	PLUMB	CJ-3 Cracker Jack
+CRER	props	L	-		#	RANS	S-7 Courier
+CRES	turboprops	L	-		#	PACIFIC AEROSPACE	Cresco
+CRIO	props	L	-		#	MICROLEVE	Corsario
+CRJ1	jets	M	-		#	CANADAIR	CL-600 Regional Jet CRJ-100
+CRJ2	jets	M	480		#	CANADAIR	CL-600 Regional Jet CRJ-200/440, Challenger 800/850, Corporate Jetliner
+CRJ7	jets	M	515		#	CANADAIR	CL-600 Regional Jet CRJ-700/701, Challenger 870
+CRJ9	jets	M	528		#	CANADAIR	CL-600 Regional Jet CRJ-705/900, Challenger 890
+CRUZ	props	L	-		#	CZAW	SportCruiser
+CT4	props	L	-		#	AESL	CT-4 Airtrainer
+CTAH	props	L	-		#	RAINBOW	Cheetah
+CUB2	props	L	-		#	ACES HIGH	Cuby 2
+CUCA	props	L	-		#	CULVER	Cadet
+CULP	props	L	-		#	CULP	Special
+CULV	props	L	-		#	CULVER	V
+CULX	props	L	-		#	FISHER AERO	Culex
+CVLP	props	M	-		#	CONVAIR	CV-240/340 Convairliner, CV-440 Metropolitan, C-131 Samaritan, T-29
+CVLT	turboprops	M	-		#	CONVAIR	CV-580/600/640, C-141H
+CYCL	props	L	-		#	CARLSON	Skycycle
+CYGT	props	L	-		#	HAWKER	Cygnet
+D1	props	L	-		#	WING	D-1 Derringer
+D11	props	L	-		#	JODEL	D-11, D-111...D-128
+D139	props	L	-		#	DORNA	D-139-PT1 Blue Bird
+D140	props	L	-		#	JODEL	D-140 Abeille/Mousquetaire
+D150	props	L	-		#	JODEL	D-150 Mascaret
+D18	props	L	-		#	JODEL	D-18/19/20
+D201	props	L	-		#	D'APUZZO	D-201 Sportwing
+D228	turboprops	L	-		#	DORNIER	228
+D25	props	L	-		#	NEW STANDARD	D-25
+D250	props	L	-		#	CENTRE EST	DR-200, DR-250 Capitaine
+D253	props	L	-		#	CENTRE EST	DR-253 Regent
+D28D	props	L	-		#	DORNIER	128-2/Do-28D Skyservant
+D28T	turboprops	L	-		#	DORNIER	128-6/Do-28D-6 Turbo Skyservant
+D31	props	L	-		#	DRUINE	D-31 Turbulent
+D328	turboprops	M	-		#	DORNIER	328
+D39	props	L	-		#	AKAFLIEG DARMSTADT	D-39
+D4	props	L	-		#	AUSTER	D-4
+D5	props	L	-		#	AUSTER	D-5
+D5TU	props	L	-		#	DRUINE	D-5 Turbi
+D6	props	L	-		#	AUSTER	D-6
+D6CR	props	L	-		#	DRUINE	D-60/61/62 Condor
+D7	props	L	-		#	FOKKER	D-7 Replica
+D8	props	L	-		#	FOKKER	D-8 Replica
+DA2	props	L	-		#	DAVIS	DA-2
+DA40	props	L	-		#	DIAMOND	DA-40 Diamond Star/Katana
+DA42	props	L	-		#	DIAMOND	DA-42 Twin Star
+DA5	props	L	-		#	DAVIS	DA-5
+DA50	props	L	-		#	DIAMOND	DA-50 Super Star
+DAHU	props	L	-		#	PENA	Dahu
+DAKH	props	L	-		#	FISHER	Dakota Hawk
+DAL1	props	L	-		#	SPEZIO	DAL-1 Tuholer
+DAL4	props	L	-		#	DALLACH	D-4 Fascination
+DART	props	L	-		#	PARRISH	Dart
+DC10	heavy	H	-		#	MCDONNELL DOUGLAS	DC-10, MD-10, KC-10 Extender, KDC-10
+DC2	props	M	-		#	DOUGLAS	DC-2
+DC3	props	M	-		#	DOUGLAS	DC-3, C-47/R4D Skytrain, C-53/117/R4D Skytrooper, Dakota
+DC3S	props	M	-		#	DOUGLAS	Super DC-3, C-117D, R4D-8
+DC3T	turboprops	M	-		#	DOUGLAS	DC-3 (turbine)
+DC4	props	M	-		#	DOUGLAS	DC-4, C-54/R5D Skymaster
+DC6	props	M	-		#	DOUGLAS	DC-6, C-118/R6D Liftmaster
+DC7	props	M	-		#	DOUGLAS	DC-7 (Seven Seas)
+DC85	heavy	H	-		#	DOUGLAS	DC-8-50 (Jet Trader)
+DC86	heavy	H	-		#	DOUGLAS	DC-8-60
+DC87	heavy	H	-		#	DOUGLAS	DC-8-70
+DC91	jets	M	-		#	MCDONNELL DOUGLAS	DC-9-10
+DC92	jets	M	-		#	MCDONNELL DOUGLAS	DC-9-20
+DC93	jets	M	-		#	MCDONNELL DOUGLAS	DC-9-30, C-9 Nightingale/Skytrain 2
+DC94	jets	M	-		#	MCDONNELL DOUGLAS	DC-9-40
+DC95	jets	M	-		#	MCDONNELL DOUGLAS	DC-9-50
+DEAG	props	L	-		#	AMAX	Double Eagle
+DEFI	props	L	-		#	RUTAN	40 Defiant
+DELF	props	L	-		#	LYAVIN	Delfin
+DFL6	props	L	-		#	DAMOURE-FABRE	DFL-6 Saphir
+DFLY	props	L	-		#	VIKING	Dragonfly
+DG15	props	L	-		#	HOWARD	DGA-15, GH Nightingale, NH
+DG1T	props	L	-		#	DG FLUGZEUGBAU	DG-1000T
+DG40	props	L	-		#	GLASER-DIRKS	DG-400
+DG50	props	L	-		#	GLASER-DIRKS	DG-500M
+DG60	props	L	-		#	GLASER-DIRKS	DG-600M
+DG80	props	L	-		#	GLASER-DIRKS	DG-800
+DH2T	turboprops	L	-		#	DE HAVILLAND CANADA	DHC-2 Mk3 Turbo Beaver
+DH3T	turboprops	L	-		#	DE HAVILLAND CANADA	DHC-3 Turbo Otter
+DH60	props	L	-		#	DE HAVILLAND	DH-60 Moth (Major)
+DH80	props	L	-		#	DE HAVILLAND	DH-80 Puss Moth
+DH82	props	L	-		#	DE HAVILLAND	DH-82 Queen Bee/Tiger Moth
+DH83	props	L	-		#	DE HAVILLAND	DH-83 Fox Moth
+DH85	props	L	-		#	DE HAVILLAND	DH-85 Leopard Moth
+DH87	props	L	-		#	DE HAVILLAND	DH-87 Hornet Moth
+DH88	props	L	-		#	DE HAVILLAND	DH-88 Comet Replica
+DH89	props	L	-		#	DE HAVILLAND	DH-89 Dragon Rapide
+DH8A	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-8-100 Dash 8, E-9
+DH8B	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-8-200 Dash 8
+DH8C	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-8-300 Dash 8
+DH8D	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-8-400 Dash 8
+DH90	props	L	-		#	DE HAVILLAND	DH-90 Dragonfly
+DH94	props	L	-		#	DE HAVILLAND	DH-94 Moth Minor
+DHA3	props	L	-		#	DE HAVILLAND AUSTRALIA	DHA-3 Drover
+DHC1	props	L	-		#	DE HAVILLAND CANADA	DHC-1 Chipmunk
+DHC2	props	L	143		#	DE HAVILLAND CANADA	DHC-2 Mk1 Beaver, U-6
+DHC3	props	L	-		#	DE HAVILLAND CANADA	DHC-3 Otter, U-1
+DHC4	props	M	-		#	DE HAVILLAND CANADA	DHC-4 Caribou, C-7, CV-2
+DHC5	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-5 Buffalo, C-8, C-115, CV-7
+DHC6	turboprops	L	-		#	DE HAVILLAND CANADA	DHC-6 Twin Otter, CC-138, UV-18
+DHC7	turboprops	M	-		#	DE HAVILLAND CANADA	DHC-7 Dash 7, O-5, RC-7
+DIES	props	L	-		#	PENNEC-LUCAS	Dieselis
+DIJ3	props	L	-		#	DIJKMAN-DULKES	Dijkhastar 3
+DIJ4	props	L	-		#	DIJKMAN-DULKES	Dijkhastar 4
+DIMO	props	L	-		#	DIAMOND	HK-36 Eco Dimona/Katana Xtreme/MPX/Super Dimona/Turbo Extreme/Xtreme
+DINO	props	L	-		#	GANZAVIA	GAK-22 Dino
+DIPR	props	L	-		#	COLLINS	Dipper
+DISC	props	L	-		#	SCHEMPP-HIRTH	Discus
+DJET	jets	L	-		#	DIAMOND	D-Jet
+DJIN	helos	L	-		#	SUD-OUEST	SO-1221 Djinn
+DNGO	turboprops	L	-		#	AERORIC	Dingo
+DO27	props	L	-		#	DORNIER	Do-27
+DO28	props	L	-		#	DORNIER	Do-28A, Do-28B Agur
+DOCX	props	L	-		#	KOVACH-ELMENDORF	ES-3 Doc's RX
+DON	props	L	-		#	UNIKOMTRANSO	Don
+DOVE	props	L	-		#	DE HAVILLAND	DH-104 Dove, Devon, Sea Devon
+DR1	props	L	-		#	FOKKER	Dr-1
+DR10	props	L	-		#	CENTRE EST	DR-100/105 Ambassadeur, DR-1050/1051 Ambassadeur/Sicile (Record)
+DR22	props	L	-		#	CENTRE EST	DR-220 2+2, DR-221 Dauphin
+DR30	props	L	-		#	ROBIN	DR-300 2+2, DR-315 Petit Prince, DR-340 Major, DR-360 Chevalier, DR-380 Prince
+DR40	props	L	-		#	ROBIN	DR-400 2+2/Cadet/Chevalier/Dauphin/Earl/Major/Petit Prince/Regent/Remo/Remorqueur, DR-500 President
+DRAG	helos	L	-		#	CRAE	Dragon Fly
+DRIF	props	L	-		#	AUSTFLIGHT	Drifter
+DRTG	props	L	-		#	CULVER	Dart G/GK/GW
+DSA1	props	L	-		#	SMITH	DSA-1 Miniplane
+DSK	props	L	-		#	KILLINGSWORTH	DSK-1 Hawk, DSK-2 Golden Hawk
+DSLK	props	L	-		#	DRIGGS	Skylark
+DUB2	props	L	-		#	DUBNA	2 Osa
+DUCE	props	L	-		#	BAKENG	Duce
+DUR5	props	L	-		#	DURAND	Mk5
+DV20	props	L	-		#	DIAMOND	DA-20 Eclipse/Evolution/Falcon/Katana, DA-22 Speed Katana, DV-20 Katana
+DW1	props	L	-		#	EAGLE	DW-1 Eagle
+DWD2	props	L	-		#	DEWOITINE	D-26/27
+DYH2	helos	L	-		#	DYNALI	H-2
+E110	turboprops	L	-		#	EMBRAER	EMB-110 Bandeirante, EMB-111 Bandeirulha, C-95
+E120	turboprops	M	-		#	EMBRAER	EMB-120 Brasilia, VC-97
+E121	turboprops	L	-		#	EMBRAER	EMB-121 Xingu, EC-9
+E135	jets	M	-		#	EMBRAER	ERJ-135 (Legacy), ERJ-140
+E145	jets	M	-		#	EMBRAER	ERJ-145, C-99
+E170	jets	M	-		#	EMBRAER	170, 175
+E190	jets	M	-		#	EMBRAER	190, 195
+E2	turboprops	M	-		#	GRUMMAN	E-2 Daya/Hawkeye
+E200	props	L	-		#	EXTRA	EA-200
+E230	props	L	-		#	EXTRA	EA-230
+E2CB	props	L	-		#	TAYLOR	E-2 Cub
+E300	props	L	-		#	EXTRA	EA-300/330/350
+E314	turboprops	L	-		#	EMBRAER	EMB-312H/314 Super Tucano, A-29
+E3CF	heavy	H	-		#	BOEING	E-3 (CFM56) Sentry
+E3TF	heavy	H	-		#	BOEING	E-3 (TF33) Sentry
+E400	props	L	-		#	EXTRA	EA-400
+E45X	jets	M	-		#	EMBRAER	EMB-145XR
+E500	turboprops	L	230		#	EXTRA	EA-500
+E50P	jets	L	-		#	EMBRAER	EMB-500 Phenom 100
+E55P	jets	L	-		#	EMBRAER	EMB-505 Phenom 300
+E6	heavy	H	-		#	BOEING	E-6 Mercury
+E737	jets	M	-		#	BOEING	737-700 Wedgetail
+E767	heavy	H	-		#	BOEING	E-767
+EA50	jets	L	-		#	ECLIPSE	Eclipse 500
+EAEA	props	L	-		#	GROSSO	Easy Eagle
+EAGL	props	L	-		#	CHRISTEN	Eagle
+EAGT	props	L	-		#	AMEAGLE	American Eaglet
+EAGX	props	L	-		#	EAGLE AIRCRAFT	Eagle 100/150/X-TS
+EC20	helos	L	-		#	EUROCOPTER	EC-120 Colibri
+EC25	helos	M	-		#	EUROCOPTER	EC-225 Super Puma Mk2+, EC-725 Cougar Mk2+
+EC30	helos	L	-		#	EUROCOPTER	EC-130
+EC35	helos	L	-		#	EUROCOPTER	EC-135/635
+EC45	helos	L	-		#	EUROCOPTER	EC-145
+EC55	helos	L	-		#	EUROCOPTER	EC-155
+EC6	props	L	-		#	CROSES	EC-6 Criquet, EC-8 Tourisme
+ECHO	props	L	-		#	TECNAM	P-92 Echo/SeaSky
+EDGE	props	L	-		#	ZIVKO	Edge 540
+EFOX	props	L	-		#	AEROPRO	Eurofox
+EGRT	turboprops	L	-		#	GROB	D-500 Egrett 2, G-520 Strato 1
+EH10	helos	M	-		#	AGUSTAWESTLAND	EH-101 (Merlin Joint Supporter)
+EL20	props	L	-		#	ELITAR	IE-202
+ELA7	props	L	-		#	ELA AVIACION	ELA-07
+ELF	props	L	-		#	PARNALL	Elf
+ELIT	jets	L	-		#	AIR	Epic Elite
+ELPS	props	L	-		#	EXPLORER	Ellipse
+ELST	props	L	-		#	PUTZER	Elster
+ELTO	helos	L	-		#	CONTINENTAL COPTERS	El Tomcat
+ELTR	props	L	-		#	ELITAR	IE-101 Elitar
+EM10	jets	L	-		#	MARGANSKI	EM-10 Bielik
+EM11	props	L	-		#	MARGANSKI	EM-11 Orka
+EN28	helos	L	-		#	ENSTROM	280 Shark, F-28 Falcon/Sentinel
+EN48	helos	L	-		#	ENSTROM	480, TH-28
+EP9	props	L	-		#	LANCASHIRE	EP-9 Prospector
+EPER	props	L	-		#	EPERVIER	Epervier
+EPIC	turboprops	L	-		#	AIR	Epic Dynasty/Epic LT
+ERAC	props	L	-		#	DICKEY	E-Racer
+ERCO	props	L	-		#	ERCO	415 Ercoupe
+ES13	props	L	-		#	EARLY BIRD	Spad 13 80%
+ESCA	turboprops	L	-		#	AIR	Epic Escape
+ESQL	props	L	-		#	MOURA	Esqualo
+ETAR	jets	M	-		#	DASSAULT-BREGUET	Super Etendard
+EUFI	jets	M	-		#	EUROFIGHTER	Typhoon
+EUPA	props	L	-		#	EUROPA	Europa
+EURT	props	L	-		#	FFT	Eurotrainer 2000
+EVAN	props	L	-		#	EVANGEL	4500 Evangel
+EVIC	jets	L	-		#	AIR	Epic Victory
+EVOL	turboprops	L	-		#	LANCAIR	Evolution
+EVSS	props	L	-		#	EVEKTOR-AEROTECHNIK	SportStar
+EX5T	turboprops	L	-		#	AEA	Explorer 500T
+EXEC	helos	L	-		#	ROTORWAY	Exec
+EXEJ	helos	L	-		#	ROTORWAY	JetExec
+EXPL	helos	L	-		#	MCDONNELL DOUGLAS	MD-900 (Combat) Explorer, MD-902 Explorer, MH-90 Enforcer
+EXPR	props	L	-		#	WHEELER	Express
+EZFL	props	L	-		#	BLUE YONDER	E-Z Flyer
+EZFT	props	L	-		#	BLUE YONDER	Twin E-Z Flyer
+EZHV	props	L	-		#	BLUE YONDER	E-Z Harvard
+EZKC	props	L	-		#	BLUE YONDER	E-Z King Cobra
+F1	jets	M	-		#	MITSUBISHI	F-1
+F100	jets	M	-		#	FOKKER	100
+F104	jets	M	-		#	LOCKHEED	F-104 Starfighter
+F106	jets	M	-		#	CONVAIR	QF-106 Delta Dart
+F111	jets	M	-		#	GENERAL DYNAMICS	F-111 Aardvark, EF-111 Raven
+F117	jets	M	-		#	LOCKHEED	F-117 Nighthawk
+F14	jets	M	-		#	GRUMMAN	F-14 Tomcat
+F15	jets	M	-		#	MCDONNELL DOUGLAS	F-15 Eagle
+F156	props	L	-		#	FIESELER	Fi-156 Storch
+F16	jets	M	-		#	GENERAL DYNAMICS	F-16 Fighting Falcon
+F16X	jets	M	-		#	GENERAL DYNAMICS	F-16XL Fighting Falcon
+F18	jets	M	-		#	MCDONNELL DOUGLAS	FA-18 (Super) Hornet, EA-18 Growler
+F2	jets	M	-		#	MITSUBISHI	F-2
+F22	jets	M	-		#	LOCKHEED MARTIN	F-22 Raptor
+F260	props	L	-		#	SIAI-MARCHETTI	SF-260
+F26T	turboprops	L	-		#	SIAI-MARCHETTI	SF-260TP
+F27	turboprops	M	-		#	FOKKER	F-27 Friendship/Maritime/Troopship, C-31, D-2
+F28	jets	M	-		#	FOKKER	F-28 Fellowship
+F2TH	jets	M	-		#	DASSAULT	Falcon 2000
+F35	jets	M	-		#	LOCKHEED MARTIN	F-35 Lightning II
+F3F	props	L	-		#	GRUMMAN	F3F
+F4	jets	M	-		#	MCDONNELL	F-4 Phantom 2
+F406	turboprops	L	-		#	CESSNA	F406 Caravan 2/Vigilant
+F5	jets	M	-		#	NORTHROP	F-5 Freedom Fighter/Tiger 2
+F50	turboprops	M	-		#	FOKKER	50 (Fokker50Freighter, Maritime Enforcer)
+F60	turboprops	M	-		#	FOKKER	60
+F600	turboprops	L	-		#	SIAI-MARCHETTI	SF-600 Canguro
+F70	jets	M	-		#	FOKKER	70
+F8	jets	M	-		#	CHANCE VOUGHT	F8U Crusader
+F86	jets	M	-		#	NORTH AMERICAN	F-86 Sabre
+F8L	props	L	-		#	AEROMERE	F-8L Falco
+F900	jets	M	-		#	DASSAULT	Falcon 900, Mystere 900
+F9F	jets	L	-		#	GRUMMAN	F9F Panther
+FA01	props	L	-		#	FLUMING AIR	FA-01 Saphir/Smaragd
+FA02	props	L	-		#	FLUMING AIR	FA-02 Smaragd VLA
+FA03	props	L	-		#	FLUMING AIR	FA-03 Smaragd TMG
+FA10	jets	M	-		#	DASSAULT	Falcon 10/100, Mystere 10/100
+FA11	props	L	-		#	FAIRCHILD	F-11 Husky
+FA20	jets	M	-		#	DASSAULT	Falcon 20/200, Mystere 20/200, HU-25 Guardian
+FA24	props	L	-		#	FAIRCHILD	F-24 Argus, UC-61 Argus/Forwarder
+FA50	jets	M	-		#	DASSAULT	Falcon 50, Mystere 50
+FA62	props	L	-		#	FAIRCHILD	M-62 Cornell, T-19/23/26
+FA7X	jets	M	-		#	DASSAULT	Falcon 7X
+FALC	props	L	-		#	AMERICAN AIRCRAFT	Falcon XP
+FALM	props	L	-		#	MILES	M-3 Falcon Major
+FANL	props	L	-		#	RHEIN	FL-1 Fanliner
+FANT	props	L	-		#	RHEIN	Fantrainer
+FB1A	props	L	-		#	BOWERS	Fly Baby 1A
+FB1B	props	L	-		#	BOWERS	Fly Baby 1B
+FBA2	props	L	-		#	FOUND	FBA-2 Bush Hawk
+FBIR	props	L	-		#	FREEWING	Freebird
+FC1	jets	M	-		#	CHENGDU	FC-1 Super 7/Xiaolong
+FDCT	props	L	-		#	FLIGHT DESIGN	CT
+FE51	props	L	-		#	FIGHTER ESCORT WINGS	P-51
+FEST	props	L	-		#	AEROSTAR	01 Festival
+FFLY	props	L	-		#	FAIREY	Firefly
+FG01	props	L	-		#	FARIGOUX	FG-01 Origan
+FGT	props	L	-		#	MIDWEST AEROSPORT	Formula GT
+FH11	helos	L	-		#	FAIRCHILD HILLER	FH-1100
+FIBO	props	L	-		#	STARFIRE	Firebolt Convertible
+FIKD	props	L	-		#	FIKE	D
+FIKE	props	L	-		#	FIKE	E
+FINC	props	L	-		#	FLEET	10, 11, 16 Finch
+FJ10	jets	L	-		#	AEROSTAR	FJ-100
+FJR3	props	L	-		#	FAJR	F-3
+FK12	props	L	-		#	B & F TECHNIK	FK-12 Comet
+FK14	props	L	-		#	B & F TECHNIK	FK-14 Polaris
+FK9	props	L	120		#	B & F TECHNIK	FK-9
+FL3	props	L	-		#	LOMBARDI	FL-3 Aviastarlet
+FL53	props	L	-		#	METEOR	FL-53
+FL54	props	L	-		#	METEOR	FL-54
+FL55	props	L	-		#	METEOR	FL-55
+FLAM	props	L	-		#	DASSAULT	MD-311/312 Flamant
+FLE2	props	L	-		#	FLEET	2
+FLE7	props	L	-		#	FLEET	7 Fawn
+FLIZ	props	L	-		#	FLITZER	Z-1/21 Flitzer
+FN33	props	L	-		#	NARDI	FN-333 Riviera
+FNKB	props	L	-		#	AKRON	Funk B
+FOOF	props	L	-		#	STEWART	JD-2 Foo Fighter
+FORT	props	L	-		#	FLEET	60 Fort
+FOUG	jets	L	-		#	POTEZ AIR-FOUGA	CM-170R Magister, CM-175 Zephyr
+FOX	props	L	-		#	DENNEY	Kitfox
+FOXT	props	L	-		#	TEAM TANGO	Foxtrot-4
+FREE	props	L	-		#	CABRINHA	RC-412 Free Spirit
+FREL	helos	M	-		#	AEROSPATIALE	SA-321 Super Frelon
+FRON	props	L	-		#	FRONTIER	Frontier MD-2
+FS51	props	L	-		#	FALCONAR	SAL P-51D Mustang
+FT30	props	L	-		#	NANJING UNIVERSITY	FT-300
+FU24	props	L	-		#	PACIFIC AEROSPACE	Fletcher FU-24
+FURY	props	L	-		#	HAWKER	Fury, Sea Fury
+FW19	props	L	-		#	FOUR WINDS	192
+FW21	props	L	-		#	FOUR WINDS	FX-210
+FW44	props	L	-		#	FOCKE-WULF	Fw-44 Stieglitz
+FW90	props	L	-		#	FOCKE-WULF	Fw-190
+G103	props	L	-		#	GROB	G-103C Twin 3SL
+G109	props	L	-		#	GROB	G-109 Ranger/Vigilant
+G115	props	L	-		#	GROB	G-115 (Bavarian, Heron, Tutor)
+G120	props	L	-		#	GROB	G-120 Snunit
+G140	turboprops	L	-		#	GROB	G-140TP
+G150	jets	M	-		#	IAI	Gulfstream G150
+G159	turboprops	M	-		#	GRUMMAN	G-159 Gulfstream 1, C-4
+G15T	props	L	-		#	GROB	G-115T Acro
+G160	turboprops	L	-		#	GROB	G-160 Ranger
+G164	props	L	-		#	GRUMMAN	G-164 Ag-Cat/Super Ag-Cat
+G180	props	L	-		#	GENERAL AIRCRAFT	G1-80 Skyfarer
+G200	props	L	-		#	GILES	G-200
+G202	props	L	-		#	GILES	G-202
+G21	props	L	-		#	GRUMMAN	G-21A/38/39 Goose
+G21M	props	L	-		#	MCKINNON	G-21C/D Goose
+G21T	turboprops	L	-		#	MCKINNON	G-21E/G Turbo Goose
+G222	turboprops	M	-		#	ALENIA	G-222, C-27A Spartan
+G2CA	helos	L	-		#	GUIMBAL	G-2 Cabri
+G2GL	jets	L	-		#	SOKO	G-2 Galeb
+G2T1	props	L	-		#	GREAT LAKES	2T-1 Sport/Sport Trainer
+G3	props	L	-		#	REMOS	G-3 Mirage
+G300	props	L	-		#	GILES	G-300
+G44	props	L	-		#	GRUMMAN	G-44 Widgeon
+G46	props	L	-		#	FIAT	G-46
+G4SG	jets	L	-		#	SOKO	G-4 Super Galeb
+G59	props	L	-		#	FIAT	G-59
+G64T	turboprops	L	-		#	GRUMMAN	G-164 Turbo Ag-Cat
+G73	props	L	-		#	GRUMMAN	G-73 Mallard
+G73T	turboprops	L	-		#	GRUMMAN	G-73T Turbo Mallard
+G800	props	L	-		#	GRINVALDS	G-801/802 Orion
+G850	props	M	-		#	GROB	G-850 Strato 2C
+G96	props	M	-		#	GRUMMAN	G-96 Trader
+G97	props	L	-		#	SAI	G-97 Spotter
+GA20	props	L	-		#	GIPPSLAND	GA-200 Fatman
+GA7	props	L	-		#	GRUMMAN AMERICAN	GA-7 Cougar
+GA8	props	L	-		#	GIPPSLAND	GA-8 Airvan
+GALX	jets	M	-		#	IAI	1126 Galaxy/Gulfstream G200
+GANT	turboprops	M	-		#	FAIREY	Gannet
+GAUN	props	L	-		#	GLOSTER	Gauntlet
+GAVI	props	L	-		#	GAVILAN	EL-1 Gavilan 358
+GAZL	helos	L	-		#	AEROSPATIALE	SA-341/342 Gazelle
+GBSP	props	L	-		#	BEETS	GB Special
+GC1	props	L	-		#	GLOBE	GC-1 Swift
+GEMI	props	L	-		#	MILES	M-65 Gemini
+GF20	props	L	-		#	GROB	GF-200
+GFLY	jets	M	-		#	SCALED	311 Global Flyer
+GL5T	jets	M	-		#	BOMBARDIER	BD-700 Global 5000
+GLAD	props	L	-		#	GLOSTER	Gladiator
+GLAS	props	L	-		#	STODDARD-HAMILTON	Glasair
+GLEX	jets	M	-		#	BOMBARDIER	BD-700 Global Express, Sentinel
+GLF2	jets	M	-		#	GRUMMAN	G-1159 Gulfstream 2, C-20J, VC-11
+GLF3	jets	M	-		#	GULFSTREAM AEROSPACE	G-1159A Gulfstream 3, C-20
+GLF4	jets	M	-		#	GULFSTREAM AEROSPACE	G-4 Gulfstream 4, C-20
+GLF5	jets	M	-		#	GULFSTREAM AEROSPACE	G-5 Gulfstream 5, C-37
+GLID	-	-	-		#	(any manufacturer)	Glider, Sailplane
+GLSP	props	L	-		#	NEW GLASTAR	Sportsman 2+2
+GLST	props	L	-		#	STODDARD-HAMILTON	SH-4 GlaStar
+GLTU	turboprops	L	-		#	STODDARD-HAMILTON	Turbine Glasair
+GM01	props	L	-		#	YALO	GM-01 Gniady
+GM17	turboprops	L	-		#	INTRACOM	GM-17 Viper
+GNAT	jets	L	-		#	FOLLAND	Fo-144 Gnat
+GOBU	props	L	-		#	BUTTERFLY	Golden Butterfly
+GOLF	props	L	-		#	TECNAM	P-96 Golf
+GOOS	props	L	-		#	QUIKKIT	Glass Goose
+GOTR	props	L	-		#	GOAIR	GT-1 Trainer
+GP3	props	L	-		#	PEREIRA	GP-3 Osprey 2
+GP4	props	L	-		#	PEREIRA	GP-4
+GR51	turboprops	L	-		#	CAMERON	P-51G Grand 51
+GRAF	props	L	-		#	LUNDY	Graflite
+GRFN	props	L	-		#	GRIFFON AERO	Griffon
+GRIF	props	L	-		#	CANADA AIR RV	Griffin
+GSIS	props	L	-		#	INNOVATION	Genesis (Revelation)
+GSPN	jets	L	-		#	GROB	G-180 SPn Utility Jet
+GUEP	props	L	-		#	AERO SERVICES	(Super) Guepard, Guepy
+GURI	props	L	-		#	AEROMOT	AMT-600 Guri
+GY10	props	L	-		#	GARDAN	GY-100 Bagheera
+GY20	props	L	-		#	CAB	GY-20 Minicab
+GY30	props	L	-		#	CAB	GY-30 Supercab
+GY80	props	L	-		#	GARDAN	GY-80 Horizon
+GYRO	-	-	-		#	(any manufacturer)	Microlight autogyro, Ultralight autogyro
+H111	props	M	-		#	HEINKEL	He-111
+H12T	helos	L	-		#	HILLER	UH-12
+H2	helos	L	-		#	KAMAN	SH-2 (Super) Seasprite
+H202	props	L	-		#	HB-AIRCRAFT	HB-202 Fledger
+H204	props	L	-		#	HB-FLUGTECHNIK	HB-204 Tornado
+H207	props	L	-		#	HB-FLUGTECHNIK	HB-207 Alfa
+H21	helos	L	-		#	VERTOL	CH-21 Work horse
+H25A	jets	M	-		#	HAWKER SIDDELEY	HS-125
+H25B	jets	M	-		#	BRITISH AEROSPACE	BAe-125-700/800, C-29
+H25C	jets	M	-		#	BRITISH AEROSPACE	BAe-125-1000
+H269	helos	L	-		#	HUGHES	200, 280, 269/300 Sky Knight, TH-55 Osage, TH-300
+H40	props	L	-		#	HOFFMANN	H-40
+H43A	helos	L	-		#	KAMAN	H-43A
+H43B	helos	L	-		#	KAMAN	HH-43B/F Huskie
+H46	helos	M	-		#	BOEING VERTOL	H-46 Sea Knight, 107
+H47	helos	M	-		#	BOEING VERTOL	H-47 Chinook, 234, 414
+H500	helos	L	-		#	HUGHES	500 (Defender), 530F, H-6
+H53	helos	M	-		#	SIKORSKY	H-53 (Sea Stallion), S-65
+H53S	helos	M	-		#	SIKORSKY	CH-53E Super Stallion, MH-53E Sea Dragon, S-80
+H60	helos	M	-		#	SIKORSKY	H-60 Black Hawk/Jayhawk/Pave Hawk/Rescue Hawk/Seahawk/Knighthawk/Strikehawk, S-70 Desert Hawk/Firehawk/Super Blue Hawk/Thunderhawk/Ocean Hawk/White Hawk
+H64	helos	M	-		#	MCDONNELL DOUGLAS	AH-64 (Longbow) Apache
+H66	helos	L	-		#	BOEING-SIKORSKY	RAH-66 Comanche
+HA2	props	L	-		#	HOLLMANN	HA-2 Sportster
+HA31	props	L	-		#	HINDUSTAN	HA-31 Basant
+HA4T	jets	M	-		#	RAYTHEON	4000 Hawker 4000/Hawker Horizon
+HAHU	props	L	-		#	SINDLINGER	HH-1 Hawker Hurricane
+HAR	jets	M	-		#	HAWKER SIDDELEY	AV-8 Harrier
+HAW3	props	L	-		#	GROEN	H2X Hawk 3
+HAWK	jets	M	-		#	BRITISH AEROSPACE	Hawk, T-45 Goshawk
+HB21	props	L	-		#	BRDITSCHKA	HB-21 Hobbylifter/Hobbyliner
+HB23	props	L	-		#	BRDITSCHKA	HB-23 Hobbyliner/Scanliner
+HB3	props	L	-		#	BRDITSCHKA	HB-3
+HCAT	props	L	-		#	GRUMMAN	F6F Hellcat
+HD34	props	M	-		#	HUREL-DUBOIS	HD-34
+HDJT	jets	L	-		#	HONDA	HA-420 HondaJet
+HEAD	props	L	-		#	STEWART	JD-1/SAC-1 Headwind
+HERN	props	L	-		#	DE HAVILLAND	DH-114 Heron
+HF20	jets	M	-		#	HFB	HFB-320 Hansa
+HI27	props	L	-		#	HIRTH	Hi-27 Acrostar
+HIND	props	L	-		#	HAWKER	Hind
+HL2	props	L	-		#	LAMBACH	HL-2 Replica
+HLD4	props	L	-		#	HALBERSTADT	D-4 Replica
+HM38	props	L	-		#	MIGNET	HM-380
+HMNY	props	L	-		#	EVEKTOR-AEROTECHNIK	EV-97VLA Harmony
+HN70	props	L	-		#	NICOLLIER	HN-700 Menestrel 2
+HORN	props	L	-		#	WALLERKOWSKI	Hornisse
+HORZ	props	L	-		#	FISHER AERO	Horizon
+HPZL	props	L	-		#	HISTORICAL AIRCRAFT	PZL P-11C
+HR10	props	L	-		#	ROBIN	HR-100 President/Royal/Safari/Tiara
+HR20	props	L	-		#	ROBIN	HR-200 Acrobin, R-200
+HROC	props	L	-		#	HARMON	Rocket
+HRYA	props	L	-		#	HISTORICAL AIRCRAFT	Ryan Trainer
+HT16	jets	L	-		#	HINDUSTAN	HJT-16 Kiran
+HT2	props	L	-		#	HINDUSTAN	HT-2
+HT32	props	L	-		#	HINDUSTAN	HPT-32 Deepak
+HT34	turboprops	L	-		#	HINDUSTAN	HTT-34
+HT36	jets	L	-		#	HINDUSTAN	HJT-36 Sitara
+HU1	props	L	-		#	SHENYANG SAILPLANE	HU-1 Seagull
+HU2	props	L	-		#	SHENYANG SAILPLANE	HU-2 Petrel
+HUCO	helos	L	-		#	BELL	H-1 HueyCobra, 209
+HUML	props	L	-		#	HUMMEL	Hummel Bird
+HUMM	props	L	-		#	AEROTEK	Hummingbird
+HUNT	jets	M	-		#	HAWKER	Hunter
+HURI	props	L	-		#	HAWKER	Hurricane, Sea Hurricane
+HUSK	props	L	-		#	CHRISTEN	A-1 Husky
+HW4P	props	L	-		#	GROEN	Hawk 4
+HW4T	turboprops	L	-		#	GROEN	Jet Hawk 4T
+I103	props	L	-		#	ILYUSHIN	Il-103
+I114	turboprops	M	-		#	ILYUSHIN	Il-114
+I115	props	L	-		#	AISA	I-115
+I11B	props	L	-		#	AISA	I-11B Peque
+I153	props	L	-		#	POLIKARPOV	I-153
+I15B	props	L	-		#	POLIKARPOV	I-15bis
+I16	props	L	-		#	POLIKARPOV	I-16
+I22	jets	M	-		#	PZL-MIELEC	I-22 Iryda, M-93/96
+I23	props	L	-		#	PZL-SWIDNIK	I-23 Manager
+I3	props	L	-		#	INTERAVIA	I-3
+I66	props	L	-		#	IANNOTTA	I-66 San Francisco
+I828	turboprops	L	-		#	ICA	IAR-828
+IA46	props	L	-		#	DINFIA	IA-46 (Super) Ranquel
+IA50	turboprops	M	-		#	DINFIA	IA-50 Guarani 2
+IA51	props	L	-		#	DINFIA	IA-51 Tehuelche
+IA58	turboprops	L	-		#	FMA	IA-58 Pucar
+IA63	jets	L	-		#	FMA	IA-63 Pampa
+IFUR	props	L	-		#	ISAACS	Fury
+IL14	props	M	-		#	ILYUSHIN	Il-14
+IL18	turboprops	M	-		#	ILYUSHIN	Il-18 Bizon, Il-20, Il-22 Zebra, Il-24
+IL28	jets	M	-		#	ILYUSHIN	Il-28
+IL38	turboprops	M	-		#	ILYUSHIN	Il-38
+IL62	heavy	H	-		#	ILYUSHIN	Il-62
+IL76	heavy	H	-		#	ILYUSHIN	Il-76 Gajaraj, Il-78, Il-82
+IL86	heavy	H	-		#	ILYUSHIN	Il-86, Il-87
+IL96	heavy	H	-		#	ILYUSHIN	Il-96
+IMPU	props	L	-		#	IMPULSE	Impulse
+ION	props	L	-		#	ION	Ion
+IP06	props	L	-		#	IPE	IPE-06 Curucaca
+IP26	props	L	-		#	IPAI	IPAI-26 Tuca
+IP6A	props	L	-		#	IPE	IPE-06A
+IPAN	props	L	-		#	EMBRAER	EMB-200/201/202 Ipanema, U-19
+IR21	props	L	-		#	ICA	IAR-821
+IR22	props	L	-		#	ICA	IAR-822/826
+IR23	props	L	-		#	ICA	IAR-823
+IR24	props	L	-		#	ICA	IAR-824
+IR25	turboprops	L	-		#	ICA	IAR-825TP Triumf
+IR27	props	L	-		#	ICA	IAR-827 Dacic
+IR28	props	L	-		#	ICA	IAR-28MA, IS-28MA
+IR31	props	L	-		#	ICA	IAR-831 Pelican
+IR46	props	L	-		#	IAR	IAR-46
+IR99	jets	L	-		#	AVIOANE	IAR-99 Soim, IAR-109 Swift
+IS2	helos	L	-		#	INSTYTUT LOTNICTWA	IS-2
+IS28	props	L	-		#	ICA	IS-28M2
+ISAT	props	L	-		#	AEROJAMES	01 Isatis
+ISPT	props	L	-		#	ISAACS	Spitfire
+J1	props	L	-		#	AUSTER	J-1 Aiglet/Alpha/Autocrat/Kingsland/Workmaster
+J10	jets	M	-		#	CHENGDU	J-10
+J2	props	L	-		#	PIPER	J-2 Cub
+J3	props	L	-		#	PIPER	J-3 Cub, L-4, NE
+J328	jets	M	-		#	FAIRCHILD DORNIER	328JET (Envoy 3)
+J4	props	L	-		#	PIPER	J-4 Cub Coupe
+J4B2	props	L	-		#	BARNETT	J4B2
+J5	props	L	-		#	PIPER	J-5 Cub Cruiser, AE, L-14
+J728	jets	M	-		#	FAIRCHILD DORNIER	728JET
+J8A	jets	M	-		#	SHENYANG	J-8-1
+J8B	jets	M	-		#	SHENYANG	J-8-2/3/4
+JAB2	props	L	-		#	JABIRU	Jabiru J160/170
+JAB4	props	L	-		#	JABIRU	Jabiru J200...450
+JABI	props	L	-		#	JABIRU	Jabiru LSA/SK/SP/ST
+JACE	props	L	-		#	CORBEN	Junior Ace
+JAG2	helos	L	-		#	JAG HELICOPTER	JAG
+JAGR	jets	M	-		#	SEPECAT	Jaguar
+JAJ5	props	L	-		#	JANOWSKI	J-5 Marco
+JAJ6	props	L	-		#	J & AS	J-6 Fregata
+JANU	props	L	-		#	SCHEMPP-HIRTH	Janus
+JARO	props	L	-		#	JACKAROO	Thruxton Jackaroo
+JAST	jets	L	-		#	SOKO	J-1/21 Jastreb
+JB1	props	L	-		#	INDEPENDENT	X-JB-1 SeaDragon
+JB15	props	L	-		#	OBERLERCHNER	JOB-15
+JC01	props	L	-		#	COUPE	JC-01
+JC02	props	L	-		#	COUPE	JC-02/200
+JCOM	jets	M	-		#	AERO COMMANDER	1121 Jet Commander
+JCRU	turboprops	L	-		#	AASI	Jetcruzer
+JD2	props	L	-		#	DYKE	JD-2 Delta
+JDOE	props	L	-		#	AMERICAN HOMEBUILTS	John Doe
+JE2	props	L	-		#	EICH	JE-2 Gyroplane
+JH7	jets	M	-		#	XIAN	JH-7
+JK05	props	L	-		#	EKOLOT	JK-05 Beetle/Pathmaker
+JL9	jets	M	-		#	GUIZHOU	JL-9 Shanying
+JN76	props	L	-		#	CAUDRON	JN-760 Cyclone
+JP10	turboprops	L	-		#	GAP	JP-100 Kestrel
+JPM1	props	L	-		#	MARIE	JPM-01 Medoc/Tanagra
+JPRO	jets	L	-		#	HUNTING PERCIVAL	P-84 Jet Provost
+JRC1	props	L	-		#	CHALARD	JRC-01 Julcar
+JS1	turboprops	L	-		#	HANDLEY PAGE	HP-137 Jetstream 1
+JS20	turboprops	L	-		#	HANDLEY PAGE	HP-137 Jetstream 200
+JS3	turboprops	L	-		#	VOLPAR	Century Jetstream 3
+JS31	turboprops	M	-		#	BRITISH AEROSPACE	BAe-3100 Jetstream 31
+JS32	turboprops	M	-		#	BRITISH AEROSPACE	BAe-3200 Jetstream Super 31
+JS41	turboprops	M	-		#	BRITISH AEROSPACE	BAe-4100 Jetstream 41
+JSQA	jets	L	-		#	PROMAVIA	F-1300 Jet Squalus
+JT2	props	L	-		#	TAYLOR	JT-2 Titch
+JU52	props	M	-		#	JUNKERS	Ju-52/3m
+JUN1	props	L	-		#	KAMINSKAS	RK-1 Jungster 1
+JUN2	props	L	-		#	KAMINSKAS	RK-2 Jungster 2
+JUNR	props	L	-		#	MALMO	MFI-9 Junior
+JUPI	props	L	-		#	LAMMER GEYER	Jupiter
+K126	helos	L	-		#	KAMOV	Ka-126
+K226	helos	L	-		#	KAMOV	Ka-226 Sergei
+K250	props	L	-		#	KESTREL	K-250
+K35A	heavy	H	-		#	BOEING	KC-135A Stratotanker
+K35E	heavy	H	-		#	BOEING	KC-135D/E Stratotanker
+K35R	heavy	H	-		#	BOEING	KC-135R/T Stratotanker
+K50	jets	M	-		#	KOREA AEROSPACE	T-50/A-50 Golden Eagle
+K51	props	L	-		#	KOVACS	K-51 Peregrino
+K8	jets	L	-		#	HONGDU	K-8 Karakorum
+KA25	helos	M	-		#	KAMOV	Ka-25
+KA26	helos	L	-		#	KAMOV	Ka-26
+KA27	helos	M	-		#	KAMOV	Ka-27/28/29/31/32
+KA50	helos	M	-		#	KAMOV	Ka-50 Black Shark/Chernaya Akula/Werewolf
+KA52	helos	M	-		#	KAMOV	Ka-52 Alligator
+KA62	helos	L	-		#	KAMOV	Ka-60 Kasatka, Ka-62
+KAFI	props	L	-		#	KARI	Firefly
+KAK1	props	L	-		#	KIEGER	AK-1
+KATB	props	L	-		#	KARI	Twinbee
+KE3	heavy	H	-		#	BOEING	KE-3
+KEHA	props	L	-		#	KESTREL	Float Hawk, Sport Hawk
+KELA	props	L	-		#	KELEHER	Lark
+KELD	props	L	-		#	KELLY	D
+KFIR	jets	M	-		#	IAI	Kfir
+KFIS	props	L	-		#	ANDERSON	EA-1 Kingfisher
+KH4	helos	L	-		#	KAWASAKI	KH-4
+KIS2	props	L	-		#	TRI-R	KIS TR-1, KIS TD
+KIS4	props	L	-		#	TRI-R	KIS TR-4 Cruiser
+KITI	props	L	-		#	MITCHELL-PROCTER	Kittiwake
+KIWI	props	L	-		#	VALENTIN	Kiwi
+KK60	props	L	-		#	KARI-KEEN	60 Coupe
+KL07	props	L	-		#	KLEMM	Kl-107
+KL25	props	L	-		#	KLEMM	L-25
+KL35	props	L	-		#	KLEMM	Kl-35
+KLBR	props	L	-		#	KOLB	King Colbra
+KM2	props	L	-		#	FUJI	KM-2, TL-1
+KMAX	helos	L	-		#	KAMAN	K-1200 K-Max
+KNTW	props	L	-		#	PAYNE	Knight Twister, Sunday Knight Twister
+KODI	turboprops	L	-		#	QUEST	Kodiak
+KOLL	props	L	-		#	KOLB	Laser
+KP2	props	L	-		#	KAPPA	KP-2 Sova
+KP5	props	L	-		#	JIHLAVAN	KP-5 Rapid 500
+KR1	props	L	-		#	RAND	KR-1
+KR2	props	L	-		#	RAND	KR-2
+KR34	props	L	-		#	KREIDER-REISNER	KR-34 Challenger, C-4
+KRAG	props	L	-		#	SOKO	J-20/P-2 Kraguj
+KRAH	props	L	-		#	ROCK	Krhe
+KRIC	props	L	-		#	FLSZ	DK-1 Der Kricket
+KSTK	props	L	-		#	PHOENIX-AVIACOR	M-12 Kasatik
+KT1	turboprops	L	-		#	KOREA AEROSPACE	KT-1 Woong-Bee
+KTOO	props	L	-		#	GROVER	J-6 Karatoo
+KZ2	props	L	-		#	SAI	KZ-2 Kupe/Traener
+KZ3	props	L	-		#	SAI	KZ-3
+KZ4	props	L	-		#	SAI	KZ-4
+KZ7	props	L	-		#	SAI	KZ-7 Laerke
+KZ8	props	L	-		#	SAI	KZ-8
+L10	props	L	-		#	LOCKHEED	L-10 Electra
+L101	heavy	H	-		#	LOCKHEED	L-1011 TriStar
+L11	props	L	-		#	LUSCOMBE	11A Sedan
+L12	props	L	-		#	LOCKHEED	L-12 Electra Junior, C-40
+L13	props	L	-		#	CONVAIR	L-13
+L13M	props	L	-		#	LET	L-13 Blanik (single-engine conversions)
+L13S	props	L	-		#	AEROTECHNIK	L-13S Vivat/Super Vivat
+L14	props	M	-		#	LOCKHEED	L-14 Hudson/Super Electra
+L15	jets	M	-		#	HONGDU	L-15
+L159	jets	M	-		#	AERO	L-159 Albatross 2
+L18	props	M	-		#	LOCKHEED	L-18 Lodestar, C-56/57/59/60, R5O
+L181	props	L	-		#	ASSOCIATED AIR	Liberty 181
+L188	turboprops	M	-		#	LOCKHEED	L-188 Electra
+L200	props	L	-		#	LET	L-200 Morava
+L29	jets	L	-		#	AERO	L-29 Delfin
+L29A	jets	M	-		#	LOCKHEED	L-1329 Jetstar 6/8
+L29B	jets	M	-		#	LOCKHEED	L-1329 Jetstar 2/731
+L37	props	M	-		#	LOCKHEED	L-137/237/PV-1 Ventura, B-34 Lexington, L-15/PV-2 Harpoon
+L380	props	L	-		#	LEDERLIN	380 Ladybug
+L39	jets	L	-		#	AERO	L-39/139 Albatross
+L40	props	L	-		#	ORLICAN	L-40 Meta Sokol
+L410	turboprops	L	-		#	LET	L-410/420 Turbolet
+L5	props	L	-		#	STINSON	L-5 Sentinel, OY, U-19, V-76
+L59	jets	L	-		#	AERO	L-59
+L6	props	L	-		#	AERO-VOLGA	L-6
+L60	props	L	-		#	AERO	L-60 Brigadyr
+L610	turboprops	M	-		#	LET	L-610
+L70	props	L	-		#	VALMET	L-70 Miltrainer/Vinka
+L8	props	L	-		#	LUSCOMBE	8 Master/Silvaire/Trainer, 50
+L90	turboprops	L	-		#	VALMET	L-90TP Redigo
+LA25	props	L	-		#	LAKE	LA-250 (Turbo) Renegade/Seafury/Seawolf, LA-270 Turbo Renegade/Seafury
+LA4	props	L	-		#	LAKE	LA-4 Buccaneer, LA-200
+LA60	props	L	-		#	LOCKHEED-AZCARATE	LASA-60 Santa Maria
+LA8	props	L	-		#	AERO-VOLGA	LA-8 Flagman
+LACO	props	L	-		#	LAVEN	LACO-125/145
+LAE1	-	-	-		#	LANGE	E-1 Antares 20E
+LAKR	props	L	-		#	LASER	Akro Z
+LAKX	props	L	-		#	AVIA BALTIKA	LAK-X
+LAMA	helos	L	-		#	SUD	SA-315 Lama
+LANC	props	M	170		#	AVRO	683 Lancaster
+LARK	props	L	-		#	NORTH AMERICAN ROCKWELL	100 Lark Commander
+LAST	props	L	-		#	UTVA	Lasta
+LBUG	props	L	-		#	REFLEX	Lightning Bug
+LCA	jets	M	-		#	ADA	LCA Tejas
+LCB	props	L	-		#	LAIRD	LC-B200 Commercial
+LEG2	props	L	-		#	LANCAIR	Legacy 2000
+LEGD	props	L	-		#	PERFORMANCE	Legend
+LEOP	jets	L	-		#	CHICHESTER-MILES	Leopard
+LEVI	props	L	-		#	TAPANEE	Levitation 4
+LGEZ	props	L	-		#	RUTAN	61 Long-EZ
+LH10	props	L	-		#	LH AVIATION	LH-10 Ellipse
+LIBE	props	L	-		#	LIBERTY	Bellaire
+LION	props	L	-		#	GRIFFON	Lionheart
+LJ23	jets	L	-		#	LEAR JET	23
+LJ24	jets	L	-		#	GATES LEARJET	24
+LJ25	jets	L	-		#	GATES LEARJET	25
+LJ28	jets	L	-		#	GATES LEARJET	28, 29
+LJ31	jets	M	-		#	GATES LEARJET	31
+LJ35	jets	M	-		#	GATES LEARJET	35, 36, C-21
+LJ40	jets	M	-		#	LEARJET	40
+LJ45	jets	M	-		#	LEARJET	45
+LJ55	jets	M	-		#	LEARJET	55
+LJ60	jets	M	-		#	LEARJET	60
+LK17	props	L	-		#	SPORTINE AVIACIJA	LAK-17AT
+LK19	props	L	-		#	SPORTINE AVIACIJA	LAK-19T
+LK20	props	L	-		#	SPORTINE AVIACIJA	LAK-20M
+LM5	props	L	-		#	LOMBARDI	LM-5 Aviastar
+LM5X	props	L	-		#	LIGHT MINIATURE	LM-5 Super Cub
+LM7	props	L	-		#	LOMBARDI	LM-7
+LMK1	props	L	-		#	CATA	LMK-1 Oryx
+LNC2	props	L	-		#	LANCAIR	Lancair 200/235/320/360
+LNC4	props	L	-		#	LANCAIR	Lancair 4
+LNCE	props	L	-		#	LANCAIR	Lancair (Super) ES
+LNP4	turboprops	L	-		#	LANCAIR	Lancair PropJet 4
+LNT4	turboprops	L	-		#	LANCAIR	Sentry 4T
+LOVE	props	L	-		#	LOVING-WAYNE	WR-1 Love
+LP1	props	L	-		#	LOPRESTI	LP-1 Fury
+LR2T	helos	L	-		#	LOAD RANGER	2000
+LS2	props	L	-		#	HAT	LS-2
+LS9	props	L	-		#	ROLLADEN-SCHNEIDER	LS-9
+LTNG	jets	M	-		#	ENGLISH ELECTRIC	Lightning
+LUL5	props	L	-		#	LUCAS	L-5
+LUL6	props	L	-		#	LUCAS	L-6
+LUL7	props	L	-		#	LUCAS	L-7
+LUL8	props	L	-		#	LUCAS	L-8
+LWIN	props	L	-		#	HOWARD HUGHES	Australian LightWing GA-912/GR-582/GR-912
+LWIS	props	L	-		#	HOWARD HUGHES	Australian LightWing Speed
+LYNX	helos	L	-		#	WESTLAND	SH-14 Lynx, Battlefield Lynx, Super Lynx
+LYSA	props	L	-		#	WESTLAND	Lysander
+M10	props	L	-		#	MOONEY	M-10 Cadet
+M101	turboprops	L	-		#	MYASISHCHEV	M-101 Gzhel
+M110	props	L	-		#	MONOCOUPE	110 Special
+M15	jets	L	-		#	PZL-MIELEC	M-15 Belphegor
+M17	jets	M	-		#	MYASISHCHEV	M-17 Stratosfera
+M18	props	L	-		#	PZL-MIELEC	M-18 Dromader
+M18T	turboprops	L	-		#	PZL-MIELEC	M-18 Turbine Dromader
+M200	props	L	-		#	MEYERS	200
+M203	props	L	-		#	MYASISHCHEV	M-203 Barsuk
+M20P	props	L	-		#	MOONEY	M-20 Mark 21/Ranger/Master/Chaparral/Super 21/Executive/Statesman/201/205/Allegro/ATS/MSE/PFM/Ovation/Eagle
+M20T	props	L	-		#	MOONEY	M-20K 231/252TSE/Encore, M-20M Bravo/TLS
+M21	props	L	-		#	PZL-MIELEC	M-21 Dromader Mini
+M212	props	L	-		#	LAMBERT	M-212 Mission
+M22	props	L	-		#	MOONEY	M-22 Mustang
+M24	props	L	-		#	PZL-MIELEC	M-24 Dromader Super
+M26	props	L	-		#	PZL-MIELEC	M-26 Air Wolf/Iskierka
+M28	turboprops	M	-		#	PZL-MIELEC	M-28 Skytruck
+M2HK	props	L	-		#	MILES	M-2 Hawk Major/Hawk Speed Six
+M308	props	L	-		#	MACCHI	MB-308
+M326	jets	L	-		#	AERMACCHI	MB-326
+M339	jets	L	-		#	AERMACCHI	MB-339
+M360	props	L	-		#	AIRCRAFT TECHNOLOGIES	Meyer-360
+M4	props	L	-		#	MAULE	M-4 Astro Rocket/Bee Dee/Jetasen/Rocket/Sport 100/Strata Rocket
+M404	props	M	-		#	MARTIN	404
+M5	props	L	-		#	MAULE	M-5 Lunar Rocket/Patroller/Strata Rocket
+M55	jets	M	-		#	MYASISHCHEV	M-55 Geophysica
+M6	props	L	-		#	MAULE	M-6 Super Rocket
+M7	props	L	-		#	MAULE	M-7-235/260 Orion/Super Rocket, MT-7-235/260 Super Rocket, MX-7-160/180/205/235 Millennium/Sportplane/Star Rocket, MXT-7-160/180 Comet/Star Craft/Star Rocket
+M74	helos	L	-		#	TEXAS HELICOPTER	M-74 Wasp
+M7T	turboprops	L	-		#	MAULE	M(X)-7-420 Star Craft, M(X)T-7-420
+M8	props	L	-		#	MAULE	M-8
+M9	props	L	-		#	MAULE	M-9
+MA1	props	L	-		#	EMAIR	MA-1 Paymaster
+MA5	props	L	-		#	MARQUART	MA-5 Charger
+MA60	turboprops	M	-		#	XIAN	MA-60
+MA6H	turboprops	M	-		#	XIAN	MA-60H
+MAGI	props	L	-		#	MILES	M-14 Magister
+MAGN	props	L	-		#	AVID	Magnum
+MAJR	props	L	-		#	LUTON	LA-5 Major
+MAMB	props	L	-		#	MELBOURNE	MA-2 Mamba
+MAME	props	L	-		#	MACAIR	Merlin
+MARS	props	M	-		#	MARTIN	170 Mars, JRM Mars
+MAVR	props	L	-		#	AEA	Maverick
+MC10	props	L	-		#	COLOMBAN	MC-10/12/15 Cricri
+MC45	props	L	-		#	MEYERS	MAC-145
+MC90	props	L	-		#	MONOCOUPE	90
+MCOU	props	L	-		#	CHRIS TENA	Mini Coupe
+MCOY	props	L	-		#	MONTANA	Coyote
+MCR1	props	L	-		#	DYN'AERO	MCR-01, Lafayette 1 Sportster, Lafayette 2 Touring
+MCR4	props	L	-		#	DYN'AERO	MCR-4, Lafayette 4 Revolution
+MCUL	props	L	-		#	KIMBALL	McCullocoupe
+MD11	heavy	H	-		#	MCDONNELL DOUGLAS	MD-11
+MD3	props	L	-		#	DATWYLER	MD-3 Swiss Trainer
+MD3R	props	L	-		#	GRYF	MD-3 Rider/SportRider
+MD52	helos	L	-		#	MCDONNELL DOUGLAS	MD-520N/530N, H-6
+MD60	helos	L	-		#	MCDONNELL DOUGLAS	MD-600N
+MD81	jets	M	-		#	MCDONNELL DOUGLAS	MD-81
+MD82	jets	M	-		#	MCDONNELL DOUGLAS	MD-82
+MD83	jets	M	-		#	MCDONNELL DOUGLAS	MD-83
+MD87	jets	M	-		#	MCDONNELL DOUGLAS	MD-87
+MD88	jets	M	-		#	MCDONNELL DOUGLAS	MD-88
+MD90	jets	M	-		#	MCDONNELL DOUGLAS	MD-90
+ME08	props	L	-		#	MESSERSCHMITT	Bf-108 Taifun
+ME09	props	L	-		#	MESSERSCHMITT	Bf-109
+ME62	jets	L	-		#	MESSERSCHMITT	Me-262
+MEAD	props	L	-		#	MEAD	Adventure
+MEL2	props	L	-		#	GARRISON	Melmoth 2
+MERK	props	L	-		#	AVIATON	Merkury
+MESS	props	L	-		#	MILES	M-38 Messenger
+METR	jets	M	-		#	GLOSTER	Meteor
+MEXP	props	L	-		#	MERLIN	Explorer
+MF10	props	L	-		#	MALMO	MFI-10 Vipan
+MF17	props	L	-		#	SAAB	MFI-15 Safari/Supporter
+MG15	jets	L	-		#	MIKOYAN	MiG-15
+MG17	jets	L	-		#	MIKOYAN	MiG-17
+MG19	jets	M	-		#	MIKOYAN	MiG-19
+MG21	jets	M	-		#	MIKOYAN	MiG-21
+MG23	jets	M	-		#	MIKOYAN	MiG-23, MiG-27 Bahadur
+MG25	jets	M	-		#	MIKOYAN	MiG-25
+MG29	jets	M	-		#	MIKOYAN	MiG-29 Baaz, MiG-33
+MG31	jets	M	-		#	MIKOYAN	MiG-31
+MG44	jets	M	-		#	MIKOYAN	MiG 1-44
+MGAT	jets	L	-		#	MIKOYAN	MiG-AT
+MGIC	props	L	-		#	KAISER	Magic
+MGNM	props	L	-		#	AVIATION ENTERPRISES	Magnum
+MH02	jets	L	-		#	HONDA-MISSISSIPPI	MH-02
+MH20	helos	L	-		#	MITSUBISHI	MH-2000
+MI10	helos	M	-		#	MIL	Mi-10
+MI14	helos	M	-		#	MIL	Mi-14
+MI2	helos	L	-		#	MIL	Mi-2
+MI24	helos	M	-		#	MIL	Mi-24/25/35
+MI26	helos	M	-		#	MIL	Mi-26
+MI28	helos	M	-		#	MIL	Mi-28
+MI34	helos	L	-		#	MIL	Mi-34
+MI38	helos	M	-		#	MIL	Mi-38
+MI4	helos	L	-		#	MIL	Mi-4
+MI6	helos	M	-		#	MIL	Mi-6/22
+MI8	helos	M	-		#	MIL	Mi-8/9/17/19/171/172
+MICO	jets	L	-		#	MICROJET	Microjet 200
+MIDR	props	L	-		#	ACBA	ACBA-8 Midour 2
+MIMP	props	L	-		#	AEROCAR	Mini-Imp
+MIMU	props	L	-		#	BUSHBY	MM-1 Midget Mustang
+MIR2	jets	M	-		#	DASSAULT	Mirage 2000
+MIR4	jets	M	-		#	DASSAULT	Mirage 4
+MIRA	jets	M	-		#	DASSAULT	Mirage 3/5/50
+MITE	props	L	-		#	MOONEY	M-18 Mite/Wee Scotsman
+MJ10	props	L	-		#	JURCA	MJ-10 Spit
+MJ12	props	L	-		#	JURCA	MJ-12 P-40
+MJ1H	props	L	-		#	JURCA	MJ-100 Spitfire Replica
+MJ2	props	L	-		#	JURCA	MJ-2/20/22 Tempete
+MJ3	props	L	-		#	JURCA	MJ-3 Dart
+MJ4	props	L	-		#	JURCA	MJ-4 Shadow
+MJ5	props	L	-		#	JURCA	MJ-5 Sirocco
+MJ53	props	L	-		#	JURCA	MJ-53 Autan
+MJ55	props	L	-		#	JURCA	MJ-55 Biso
+MJ7	props	L	-		#	JURCA	MJ-7 Gnatsum
+MJ77	props	L	-		#	JURCA	MJ-77 Gnatsum
+MJ8	props	L	-		#	JURCA	MJ-8 1-Nine-0
+MJ80	props	L	-		#	JURCA	MJ-80 Focke-Wulf Fw-190 Replica
+MJ9	props	L	-		#	JURCA	MJ-9
+MJ90	props	L	-		#	JURCA	MJ-90 Messerschmitt Bf-109 Replica
+MLER	props	L	-		#	ALANNE	Moottori-Lerche
+MM14	props	L	-		#	MAGNI	M-14 Scout
+MM16	props	L	-		#	MAGNI	M-16 Tandem Trainer
+MM19	props	L	-		#	MAGNI	M-19 Shark
+MM21	props	L	-		#	MAGNI	M-21
+MMAC	props	L	-		#	MCCARLEY	Mini-Mac
+MMAX	props	L	-		#	MAD MAX AERO	Mad Max
+MNEX	props	L	-		#	NORMAN	Nordic 8 Mini Explorer
+MOCU	props	L	-		#	CULP	MonoCulp
+MOGO	props	L	-		#	MONTAGNE	Mountain Goat
+MOL1	props	L	-		#	MOLNIYA	1
+MONA	props	L	-		#	MILES	M-17 Monarch
+MONI	props	L	-		#	MONNETT	Moni
+MOR2	props	L	-		#	MORRISEY	2000 Nifty, 2150
+MOSP	props	L	-		#	MONG	Sport
+MOSQ	props	M	-		#	DE HAVILLAND	DH-98 Mosquito
+MP20	props	L	-		#	PLAN	MP-205/207 Busard
+MR25	props	L	-		#	MURPHY	SR-2500 Super Rebel
+MR35	props	L	-		#	MURPHY	SR-3500 Moose/Super Rebel
+MRAI	props	L	-		#	MONNETT	Monerai P
+MRAM	props	L	-		#	HARMON	1-2 Mister America
+MRF1	jets	M	-		#	DASSAULT	Mirage F1
+MRMD	props	L	-		#	CZAW	Mermaid
+MRTN	props	L	-		#	MIRAGE	Marathon
+MS18	props	L	-		#	SOCATA	MS-200FG Morane
+MS23	props	L	-		#	MORANE-SAULNIER	MS-230
+MS25	props	L	-		#	SOCATA	MS-200RG Morane
+MS30	props	L	-		#	SOCATA	MS-300 Epsilon 2
+MS31	props	L	-		#	MORANE-SAULNIER	MS-315/317
+MS73	props	L	-		#	MORANE-SAULNIER	MS-733 Alcyon
+MS76	jets	L	-		#	MORANE-SAULNIER	MS-760 Paris
+MSAI	props	L	-		#	MORANE-SAULNIER	AI, MoS-27/29/30
+MT2	jets	M	-		#	MITSUBISHI	T-2
+MU2	turboprops	L	-		#	MITSUBISHI	LR-1, MU-2 Marquise/Solitaire
+MU23	props	L	-		#	AKAFLIEG MUNCHEN	MU-23 Saurier
+MU30	jets	M	-		#	MITSUBISHI	MU-300 Diamond
+MUS2	props	L	-		#	BUSHBY	M-2 Mustang 2
+MVN1	props	L	-		#	MVEN	1 Fermer
+MX10	props	L	-		#	AEROTEC	MXP-100 Aventura
+MX1T	props	L	-		#	AEROANDINA	MXP-1000 Tayrona
+MX65	props	L	-		#	AEROTEC	MXP-650 Amigo
+MX80	props	L	-		#	AEROTEC	MXP-800 Fantasy
+MY12	props	L	-		#	MYLIUS	MY-102 Tornado
+MY13	props	L	-		#	MYLIUS	MY-103 Mistral
+MYA4	heavy	H	-		#	MYASISHCHEV	3M, M-4
+MYS4	jets	M	-		#	DASSAULT	MD-454A Mystere 4A
+N110	props	L	-		#	NORD	1100 Noralpha, 1101 Ramier
+N120	props	L	-		#	NORD	1200...1204 Norecrin
+N250	turboprops	M	-		#	NUSANTARA	N-250
+N260	turboprops	M	-		#	NORD	260 Super Broussard
+N262	turboprops	M	-		#	NORD	262 Fregate, Mohawk 298
+N3	props	L	-		#	NOSTALGAIR	N-3 Citabriette/Super Pup
+N320	props	L	-		#	NORD	3202
+N340	props	L	-		#	NORD	3400
+N3N	props	L	-		#	NAVAL AIRCRAFT FACTORY	N3N
+N5	props	L	-		#	HONGDU	N-5
+NA40	helos	L	-		#	UNIS	NA-40 Bongo
+NAL2	props	L	-		#	NAL	NALLA-2 Hansa
+NAVI	props	L	-		#	NORTH AMERICAN	L-17 Navion, NA-145/154
+NC85	props	L	-		#	NORD	NC-854/858
+ND1T	turboprops	L	-		#	NDN	NDN-1T Turbo Firecracker
+NDAC	props	L	-		#	NORMAND DUBE	Aerocruiser
+NDAT	props	L	-		#	NORMAND DUBE	Aerocruiser Turbo 450
+NDIC	props	L	-		#	NORMAN	Nordic 2/5/6/7
+NH90	helos	M	-		#	NHI	NH-90
+NI28	props	L	-		#	NIEUPORT	28 Replica
+NIBB	props	L	-		#	AVIAMILANO	F-14 Nibbio
+NIM	jets	M	-		#	HAWKER SIDDELEY	Nimrod
+NIMB	props	L	-		#	SCHEMPP-HIRTH	Nimbus
+NIPR	props	L	-		#	TIPSY	T-66 Nipper
+NMCU	props	L	-		#	ENAER	ECH-02 Namcu
+NOMA	turboprops	L	-		#	GAF	N-2/22/24 Nomad, N-22 Floatmaster/Missionmaster/Searchmaster
+NORA	props	M	-		#	NORD	2501 Noratlas
+NORS	props	L	-		#	NOORDUYN	C-64 Norseman
+NPOR	props	L	-		#	REDFERN	Nieuport 17/24
+NSTR	props	L	-		#	CUSTOM FLIGHT	North Star
+NT10	props	L	-		#	NUWACO	T-10
+O1	props	L	-		#	CESSNA	O-1 Bird Dog, 305, 321
+O3	props	L	-		#	LOCKHEED	YO-3
+OH1	helos	L	-		#	KAWASAKI	OH-1
+OKHO	props	L	-		#	AERO-ASTRA	Okhotnik
+OM1	props	L	-		#	MORRISEY	OM-1 Bravo
+OMAG	props	L	-		#	O'NEILL	Magnum
+OMGA	props	L	-		#	ISAE	Omega 2
+OMLA	turboprops	L	-		#	OMAC	Laser 300
+OPCA	props	L	-		#	EDGLEY	EA-7 Optica
+OSCR	props	L	-		#	PARTENAVIA	P-64/66 Oscar, P-66 Charlie
+OUDE	props	L	-		#	OLYMPIC ULTRALIGHTS	Desert Eagle 2
+OVOD	props	L	-		#	VITEK	Ovod
+OZZI	props	L	-		#	BUCHANAN	BAC-204 Ozzie Mozzie
+P100	props	L	-		#	POTTIER	P-100
+P130	props	L	-		#	POTTIER	P-130 Bleu Citron
+P136	props	L	-		#	PIAGGIO	P-136
+P148	props	L	-		#	PIAGGIO	P-148
+P149	props	L	-		#	PIAGGIO	P-149
+P180	turboprops	L	-		#	PIAGGIO	P-180 Avanti
+P19	props	L	-		#	AVIAMILANO	P-19 Scricciolo
+P2	props	M	-		#	LOCKHEED	P-2 Neptune
+P210	props	L	-		#	CESSNA	P210 Pressurized Centurion
+P220	props	L	-		#	POTTIER	P-220 Koala
+P230	props	L	-		#	POTTIER	P-230 Panda
+P270	props	L	-		#	POTTIER	P-270
+P28A	props	L	-		#	PIPER	PA-28-140/150/151/160/161/180/181 Archer, Cadet, Cherokee (Challenger/Chief/Cruiser/Flite Liner), Warrior
+P28B	props	L	-		#	PIPER	PA-28-201T Turbo Dakota, -235 Cherokee (Charger/Pathfinder), -236 Dakota
+P28R	props	L	-		#	PIPER	PA-28R-180/200/201 (Cherokee) Arrow, -201T Turbo (Cherokee) Arrow 3
+P28T	props	L	-		#	PIPER	PA-28RT-201 Arrow 4, -201T Turbo Arrow 4
+P3	turboprops	M	-		#	LOCKHEED	P-3 Orion, CP-140 Arcturus/Aurora
+P32R	props	L	-		#	PIPER	PA-32R-300 (Cherokee) Lance, -301 Saratoga (2 HP/SP), -301T Saratoga 2 TC/Turbo Saratoga SP
+P32T	props	L	-		#	PIPER	PA-32RT-300 Lance 2, -300T Turbo Lance 2
+P337	props	L	-		#	CESSNA	P337/T337G Pressurized Skymaster
+P38	props	M	-		#	LOCKHEED	P-38 Lightning, F-5
+P39	props	L	-		#	BELL	P-39 Airacobra
+P40	props	L	-		#	CURTISS	P-40 Warhawk, Kittyhawk
+P46T	turboprops	L	-		#	PIPER	PA-46-500TP Malibu Meridian
+P47	props	M	-		#	REPUBLIC	P-47 Thunderbolt
+P4Y	props	M	-		#	CONVAIR	PB4Y Privateer
+P50	props	L	-		#	POTTIER	P-50 Bouvreuil
+P51	props	L	-		#	NORTH AMERICAN	P-51 Mustang
+P57	props	L	-		#	PARTENAVIA	P-57 Fachiro 2
+P60	props	L	-		#	POTTIER	P-60 Minacro
+P61	props	M	-		#	NORTHROP	P-61 Black Widow
+P63	props	L	-		#	BELL	P-63 Kingcobra
+P66P	props	L	-		#	PIAGGIO	P-166
+P66T	turboprops	L	-		#	PIAGGIO	P-166DL3, P-166DP1
+P68	props	L	-		#	PARTENAVIA	P-68 Observer/Victor
+P68T	turboprops	L	-		#	PARTENAVIA	AP-68TP-300 Spartacus
+P70	props	L	-		#	POTTIER	P-70
+P750	turboprops	L	-		#	PACIFIC AEROSPACE	750XL
+P80	props	L	-		#	POTTIER	P-80
+P808	jets	M	-		#	PIAGGIO-DOUGLAS	PD-808
+P82	props	M	-		#	NORTH AMERICAN	P-82 Twin Mustang
+PA11	props	L	-		#	PIPER	PA-11 Cub Special
+PA12	props	L	-		#	PIPER	PA-12 Super Cruiser
+PA14	props	L	-		#	PIPER	PA-14 Family Cruiser
+PA15	props	L	-		#	PIPER	PA-15 Vagabond
+PA16	props	L	-		#	PIPER	PA-16 Clipper
+PA17	props	L	-		#	PIPER	PA-17 Vagabond (Trainer)
+PA18	props	L	-		#	PIPER	PA-18 Super Cub
+PA20	props	L	-		#	PIPER	PA-20 Pacer
+PA22	props	L	-		#	PIPER	PA-22 Caribbean/Colt/Tri-Pacer
+PA23	props	L	-		#	PIPER	PA-23-150/160 Apache
+PA24	props	L	-		#	PIPER	PA-24 Comanche
+PA25	props	L	-		#	PIPER	PA-25 Pawnee
+PA27	props	L	-		#	PIPER	PA-23-235/250 Aztec, -250 Turbo Aztec
+PA30	props	L	-		#	PIPER	PA-30 (Turbo) Twin Comanche, PA-39 Twin Comanche CR
+PA31	props	L	-		#	PIPER	PA-31-300/310 Navajo, -325 Navajo CR, -350 (Navajo) Chieftain/T-1020, P-350 Mojave, P-425 Pressurized Navajo
+PA32	props	L	-		#	PIPER	PA-32 6X, 6XT, (Cherokee) Six, (Turbo) Saratoga
+PA34	props	L	210		#	PIPER	PA-34 Seneca
+PA36	props	L	-		#	PIPER	PA-36 Pawnee Brave
+PA38	props	L	-		#	PIPER	PA-38 Tomahawk
+PA44	props	L	-		#	PIPER	PA-44 (Turbo) Seminole
+PA46	props	L	-		#	PIPER	PA-46-310P Malibu,-350P Malibu Mirage
+PAGO	props	L	-		#	SAUPER	ADV-01 Papango
+PANT	props	L	-		#	ROTEC	Panther 2, Panther Plus, Sea Panther
+PARL	props	L	-		#	ST. CROIX	Pietenpol Aerial
+PAT2	props	L	-		#	ATAC	Patriot 2
+PAT4	turboprops	L	-		#	PIPER	PA-31T3-500 T-1040
+PAUL	props	L	-		#	PAULISTA	CAP-4 Paulistinha
+PAY1	turboprops	L	-		#	PIPER	PA-31T1-500 Cheyenne 1
+PAY2	turboprops	L	-		#	PIPER	PA-31T-620 Cheyenne (2/2XL)
+PAY3	turboprops	L	-		#	PIPER	PA-42-720 Cheyenne 3
+PAY4	turboprops	L	-		#	PIPER	PA-42-1000 Cheyenne 400
+PC12	turboprops	L	-		#	PILATUS	PC-12 Eagle/Spectre, U-28
+PC21	turboprops	L	-		#	PILATUS	PC-21
+PC6P	props	L	-		#	PILATUS	PC-6 Porter
+PC6T	turboprops	L	-		#	PILATUS	PC-6 Turbo-Porter, UV-20 Chiricahua
+PC7	turboprops	L	-		#	PILATUS	PC-7 Astra/Turbo Trainer, AT-92
+PC9	turboprops	L	-		#	PILATUS	PC-9 Hudournik
+PCA2	props	L	-		#	PITCAIRN-CIERVA	PCA-2
+PDIG	props	L	-		#	VSTOL	SST-2000 Pairadigm
+PEGA	props	L	-		#	GENERAL AVIA	F-20 Pegaso
+PEGZ	props	L	-		#	PEGASE AERO	Pegazair
+PELI	props	L	-		#	ULTRAVIA	Pelican
+PEMB	props	L	-		#	PERCIVAL	P-66 Pembroke
+PETR	props	L	-		#	SMAN	Petrel
+PGEE	props	L	-		#	HOLCOMB	Perigee
+PGK1	props	L	-		#	WESTERN	PGK-1 Hirondelle
+PHIL	helos	L	-		#	VTOL AIRCRAFT	Phillicopter
+PICO	props	L	-		#	PROCAER	F-15 Picchio
+PILL	props	L	-		#	ENAER	T-35 Pillen
+PINO	props	L	-		#	GENERAL AVIA	F-22 Pinguino (Sprint)
+PISI	props	L	-		#	PIPISTREL	Sinus
+PITA	props	L	-		#	PIPISTREL	Taurus
+PIVI	props	L	-		#	PIPISTREL	Virus
+PK11	props	L	-		#	PIK	PIK-11 Tumppu
+PK15	props	L	-		#	PIK	PIK-15 Hinu
+PK18	props	L	-		#	PIK	PIK-18 Sytky
+PK19	props	L	-		#	PIK	PIK-19 Muhinu
+PK20	props	L	-		#	PIK	PIK-20E
+PK21	props	L	-		#	PIK	PIK-21 Super Sytky
+PK23	props	L	-		#	PIK	PIK-23 Suhinu/Towmaster
+PKAN	props	L	-		#	UETZ	U-3M/4M Pelikan
+PL1	props	L	-		#	PAZMANY	PL-1 Laminar
+PL12	props	L	-		#	TRANSAVIA	PL-12 Airtruk/Skyfarmer
+PL2	props	L	-		#	PAZMANY	PL-2
+PL4	props	L	-		#	PAZMANY	PL-4
+PL9	props	L	-		#	PAZMANY	PL-9 Stork
+PLUS	props	L	-		#	TAYLORCRAFT	Auster 1, Plus C/D
+PNR2	props	L	-		#	ALPI	Pioneer 200
+PNR3	props	L	-		#	ALPI	Pioneer 300/330
+PO2	props	L	-		#	POLIKARPOV	Po-2
+PO60	props	L	-		#	POTEZ	60/600 Sauterelle
+POLI	props	L	-		#	ALVAREZ	Polliwagen
+PONY	props	L	-		#	REDA	Pony
+PP2	props	L	-		#	PILATUS	P-2
+PP3	props	L	-		#	PILATUS	P-3
+PPRO	props	L	-		#	PERCIVAL	P-56 Provost
+PRCE	props	L	-		#	PERCIVAL	P-57 Sea Prince
+PREN	props	L	-		#	PERCIVAL	P-40 Prentice
+PRET	props	L	-		#	GM&T	GM&T Pretty Flight
+PREX	props	L	-		#	PRIVATE EXPLORER	Private Explorer
+PRM1	jets	L	-		#	RAYTHEON	390 Premier 1
+PROC	props	L	-		#	PERCIVAL	P-28/30/31/34/44 Proctor
+PROT	props	L	-		#	CZAW	Parrot
+PROW	props	L	-		#	MORSE	364 Prowler
+PRTS	jets	L	-		#	RUTAN	281 Proteus
+PSW4	helos	L	-		#	PZL-SWIDNIK	SW-4 Maluch
+PT21	props	L	-		#	POTTIER	P-210 Coati
+PT22	props	L	-		#	RYAN	PT-22 Recruit
+PT70	props	L	-		#	POTTIER	P-170
+PT80	props	L	-		#	POTTIER	P-180
+PTMS	props	L	-		#	PITTS	S-12 Macho Stinker/Super Stinker
+PTRL	props	L	-		#	NASH	Petrel
+PTS1	props	L	-		#	AVIAT	Pitts S-1 Special
+PTS2	props	L	-		#	AVIAT	Pitts S-2 Special
+PTSS	props	L	-		#	PITTS	S-1-11 Super Stinker
+PULS	props	L	-		#	AERO DESIGNS	Pulsar
+PUMA	helos	L	-		#	AEROSPATIALE	SA-330 Puma
+PUP	props	L	-		#	BEAGLE	B-121 Pup
+PURS	props	L	-		#	RANS	S-11 Pursuit
+PUSH	props	L	-		#	PRESCOTT	Pusher
+PW4	props	L	-		#	POLITECHNIKA WARSZAWSKA	PW-4
+PZ01	props	L	-		#	PZL-OKECIE	PZL-101 Gawron
+PZ02	props	L	-		#	PZL-OKECIE	PZL-102 Kos
+PZ04	props	L	-		#	PZL-OKECIE	PZL-104 Wilga 35/80
+PZ05	props	L	-		#	PZL-OKECIE	PZL-105 Flaming
+PZ06	props	L	-		#	PZL-OKECIE	PZL-106 Kruk
+PZ12	props	L	-		#	PZL-OKECIE	PZL-112 Junior/Koliber Junior
+PZ26	props	L	-		#	PZL-OKECIE	PZL-126 Mrowka
+PZ3T	turboprops	L	-		#	PZL-OKECIE	PZL-130 Orlik
+PZ4M	props	L	-		#	PZL-OKECIE	PZL-104M Wilga 2000
+PZ6T	turboprops	L	-		#	PZL-OKECIE	PZL-106 Turbo Javelin/Turbo Kruk
+Q5	jets	M	-		#	NANCHANG	Q-5
+QAIL	props	L	-		#	AEROSPORT	Quail
+QEST	props	L	-		#	OMNI-WELD	Questor
+QIC2	props	L	-		#	QUICKIE	Quickie Q2/Q200
+QR01	props	L	-		#	QUERCY	CQR-01
+QUIC	props	L	-		#	QUICKIE	Quickie
+R100	props	L	-		#	ROBIN	R-1180 Aiglon
+R109	props	L	-		#	RIHN	DR-109 Rhino
+R11	props	L	-		#	RUPERT	R-11
+R135	heavy	H	-		#	BOEING	RC-135
+R185	props	L	-		#	JOHNSON	Rocket 185
+R2	props	L	-		#	SAU	R-02 Robert
+R200	props	L	-		#	ROBIN	R-2100 Super Club, R-2112/2120 Alpha, R-2160 Alpha Sport
+R22	helos	L	-		#	ROBINSON	R-22 Beta/Mariner
+R2TH	jets	L	-		#	DASA-ROCKWELL	FR-06 FanRanger/Ranger 2000
+R300	props	L	-		#	ROBIN	R-300/3000/3100/3120/3140
+R4	helos	L	-		#	SIKORSKY	R-4 Hoverfly
+R44	helos	L	-		#	ROBINSON	R-44 Astro/Clipper/Raven
+R721	jets	M	-		#	BOEING	727-100RE Super 27
+R722	jets	M	-		#	BOEING	727-200RE Super 27
+R90F	props	L	-		#	RUSCHMEYER	R-90-230FG
+R90R	props	L	-		#	RUSCHMEYER	R-90-230RG, MF-85
+R90T	turboprops	L	-		#	RUSCHMEYER	R-90-420AT
+RA14	props	L	-		#	ADAM	RA-14 Loisirs
+RA17	props	L	-		#	ADAM	RA-17
+RAF2	props	L	-		#	ROTARY AIR FORCE	RAF-2000
+RAIL	props	L	-		#	AEROSPORT	Rail
+RALL	props	L	-		#	MORANE-SAULNIER	MS-880...893 Rallye Club/Rallye 105/Super Rallye/Rallye Commodore
+RANG	props	L	-		#	NAVION	Rangemaster
+RAV5	props	L	-		#	RAVIN	Ravin 500
+RAVN	props	L	-		#	WOLFSBERG	Raven 257
+RAZM	props	L	-		#	SAINT GERMAIN	Raz-Mut
+RBEL	props	L	-		#	MURPHY	Rebel (Elite)
+RC3	props	L	-		#	REPUBLIC	RC-3 Seabee
+RC70	props	L	-		#	ROCKWELL	700 Commander 700, 710 Commander 710
+RD03	props	L	-		#	DURUBLE	RD-03 Edelweiss
+RD20	props	L	-		#	DENIZE	RD-20/205 Raid Driver
+RDH2	props	L	-		#	REDFERN	DH-2
+RELI	props	L	-		#	STINSON	SR Reliant
+REV6	turboprops	L	-		#	GROEN	Revcon 6G
+RF10	props	L	-		#	FOURNIER	RF-10
+RF3	props	L	-		#	FOURNIER	RF-3
+RF4	props	L	-		#	FOURNIER	RF-4
+RF47	props	L	-		#	FOURNIER	RF-47
+RF5	props	L	-		#	FOURNIER	RF-5
+RF6	props	L	-		#	FOURNIER	RF-6 (Slingsby T-67 Firefly)
+RF9	props	L	-		#	FOURNIER	RF-9
+RFAL	jets	M	-		#	DASSAULT	Rafale
+RGNT	props	L	-		#	NEIVA	C-42/L-42/N-591/N-592 Regente
+RJ03	props	L	-		#	JUNQUA	RJ-03 Ibis
+RJ1H	jets	M	-		#	BAE SYSTEMS	Avro RJ-100
+RJ70	jets	M	-		#	BAE SYSTEMS	Avro RJ-70
+RJ85	jets	M	-		#	BAE SYSTEMS	Avro RJ-85
+RK5	props	L	-		#	KALINAUSKAS	RK-5
+RLU1	props	L	-		#	RLU	RLU-1 Breezy
+RMOU	helos	L	-		#	HILLBERG	EH1-01 Rotormouse
+RNGR	props	L	-		#	DAC	RangeR
+RODS	props	L	-		#	RIHN	DR-107 One Design
+ROND	props	L	-		#	AMBROSINI	F-4 Rondone
+ROSE	props	L	-		#	MAUPIN	Windrose
+RP1	helos	L	-		#	MITSUBISHI	RP-1
+RPUP	props	L	-		#	LITTLE WING	LW-2+2 Roto-Pup
+RS12	props	L	-		#	RANS	S-12 (Super) Airaile
+RS18	props	L	-		#	SPORTAVIA-PUTZER	RS-180 Sportsman
+RTA4	props	L	-		#	RTAF	RTAF-4 Chandra
+RUBI	props	L	-		#	SCINTEX	ML-250 Rubis
+RV10	props	L	-		#	VAN'S	RV-10
+RV3	props	L	-		#	VAN'S	RV-3
+RV4	props	L	-		#	VAN'S	RV-4
+RV4T	turboprops	L	-		#	VAN'S	RV-4T
+RV6	props	L	-		#	VAN'S	RV-6
+RV7	props	L	-		#	VAN'S	RV-7
+RV8	props	L	-		#	VAN'S	RV-8
+RV9	props	L	-		#	VAN'S	RV-9
+RVAL	helos	M	-		#	DENEL	AH-2 Rooivalk
+RW19	props	L	-		#	RAGWING	RW-19 Stork
+RW20	props	L	-		#	RAGWING	RW-20 Stork
+RW22	props	L	-		#	RAGWING	RW-22 Tiger Moth
+RW26	props	L	-		#	RAGWING	RW-26 Special 2
+RW3	props	L	-		#	RHEIN-WEST-FLUG	RW-3 Multoplane
+RYST	props	L	-		#	RYAN	ST, PT-20
+S05F	props	L	-		#	SIAI-MARCHETTI	S-205-18F/20F
+S05R	props	L	-		#	SIAI-MARCHETTI	S-205-18R/20R/22R
+S1	props	L	-		#	INTERSTATE	S-1 Cadet/Arctic Tern, L-6
+S10	props	L	-		#	STINSON	105, 10 Voyager, HW-75/80
+S107	props	L	-		#	SPRATT	107
+S108	props	L	-		#	STINSON	108 Voyager/Station Wagon
+S10S	props	L	-		#	STEMME	S-10 Chrysalis, TG-11
+S11	props	L	-		#	FOKKER	S-11 Instructor
+S12	props	L	-		#	SPENCER	S-12 Air Car
+S200	jets	L	-		#	SIPA	S-200 Minijet
+S202	props	L	-		#	SGAU	S-202
+S208	props	L	-		#	SIAI-MARCHETTI	S-208
+S21	props	L	-		#	MACDONALD	S-21
+S210	jets	M	-		#	SUD	SE-210 Caravelle
+S211	jets	L	-		#	SIAI-MARCHETTI	M-311, S-211
+S223	props	L	-		#	MBB	223 Flamingo
+S274	helos	L	-		#	IRGC	Shahed 274
+S278	helos	L	-		#	HESA	Shahed 278
+S2P	props	M	-		#	GRUMMAN	S-2 Tracker
+S2T	turboprops	M	-		#	GRUMMAN	S-2 Turbo Tracker
+S3	jets	M	-		#	LOCKHEED	S-3 Viking
+S330	helos	L	-		#	SCHWEIZER	269D 330, 269D 333
+S360	helos	L	170		#	AEROSPATIALE	SA-360/361 Dauphin
+S37	jets	M	-		#	SUKHOI	Su-47 Berkut
+S38	props	L	-		#	SIKORSKY	S-38
+S39	props	L	-		#	SIKORSKY	S-39
+S4	props	L	-		#	ARCTIC	S-4 Privateer
+S400	props	L	-		#	SGAU	S-400 Kapitan
+S45	props	L	-		#	PARTENAIR	S-45 Mystere
+S51	helos	L	-		#	SIKORSKY	S-51
+S51D	props	L	-		#	STEWART	S-51D
+S52	helos	L	-		#	SIKORSKY	S-52
+S55P	helos	L	-		#	SIKORSKY	S-55, H-19 Chickasaw
+S55T	helos	L	-		#	SIKORSKY	S-55T
+S58P	helos	L	-		#	SIKORSKY	S-58, H-34 Chocktaw/Seabat/Seahorse
+S58T	helos	L	-		#	SIKORSKY	S-58DT/ET/T
+S601	jets	L	-		#	AEROSPATIALE	SN-601 Corvette
+S61	helos	M	-		#	SIKORSKY	S-61, H-3 Sea King
+S61R	helos	M	-		#	SIKORSKY	S-61R, CH-3, HH-3 Pelican
+S62	helos	L	-		#	SIKORSKY	S-62, HH-52 Seaguard
+S64	helos	M	-		#	SIKORSKY	S-64 Skycrane, CH-54 Tarhe
+S65C	helos	L	-		#	AEROSPATIALE	SA-365C Dauphin 2
+S76	helos	L	-		#	SIKORSKY	S-76 Spirit, H-76 Eagle, HE-24
+S900	props	L	-		#	SIPA	S-901/902/903/904
+S92	helos	M	-		#	SIKORSKY	S-92 Helibus
+SA02	props	L	-		#	K & S	SA-102.5 Cavalier
+SA03	props	L	-		#	K & S	SA-103 Cavalier
+SA04	props	L	-		#	K & S	SA-104 Cavalier
+SA05	props	L	-		#	K & S	SA-105 Super Cavalier
+SA10	props	L	-		#	STOLP	SA-100 Starduster
+SA11	props	L	-		#	STITS	SA-11 Playmate
+SA20	props	L	-		#	BERIEV	SA-20
+SA3	props	L	-		#	STITS	SA-3 Playboy
+SA30	props	L	-		#	STOLP	SA-300 Starduster Too
+SA37	props	L	-		#	SCHWEIZER	SA-2-37A Condor, RG-8 Condor
+SA38	props	L	-		#	SCHWEIZER	SA-2-38A Twin Condor, RU-38 Twin Condor
+SA50	props	L	-		#	STOLP	SA-500 Starlet
+SA6	props	L	-		#	STITS	SA-6 Flut-R-Bug
+SA7	props	L	-		#	STITS	SA-7 Sky-Coupe
+SA70	props	L	-		#	STOLP	SA-700 Acroduster
+SA75	props	L	-		#	STOLP	SA-750 Acroduster Too
+SAB2	props	L	-		#	KEUTHAN	Sabre 2
+SACE	props	L	-		#	CORBEN	Super Ace
+SACR	props	L	-		#	SMITH	Acro Advanced
+SAFF	props	L	-		#	HALSTED	Saffire
+SAH1	props	L	-		#	TRAGO MILLS	SAH-1
+SAKO	props	L	-		#	RANS	S-10 Sakota
+SAND	props	M	-		#	SHORT	S-25 Sandringham
+SAPH	props	L	-		#	PIEL	CP-1320 Saphir
+SARA	turboprops	L	-		#	NAL	Saras
+SASP	props	L	-		#	SUPERMARINE AIRCRAFT	Spitfire Mk25/Mk26
+SASY	props	L	-		#	PROTECH	PT-2 ProStar/Sassy
+SATA	jets	L	-		#	HISPANO	HA-200 Saeta, HA-220 Super Saeta
+SAVG	props	L	-		#	ZLIN AVIATION	Savage
+SB05	jets	L	-		#	SAAB	105
+SB20	turboprops	M	-		#	SAAB	2000
+SB29	jets	M	-		#	SAAB	29
+SB32	jets	M	-		#	SAAB	32 Lansen
+SB35	jets	M	-		#	SAAB	35 Draken
+SB37	jets	M	-		#	SAAB	37 Viggen
+SB39	jets	M	-		#	SAAB	39 Gripen
+SB7	props	L	-		#	SEABIRD	SB-7 Seeker
+SB91	props	L	-		#	SAAB	91 Safir
+SBD	props	L	-		#	DOUGLAS	SBD Dauntless
+SBLS	props	L	-		#	SLIPSTREAM	SkyBlaster
+SBM3	props	L	-		#	E & K	SBM-03 Kos
+SBOY	props	L	-		#	INTERPLANE	Skyboy
+SBR1	jets	M	-		#	NORTH AMERICAN	NA-265 Sabreliner, T-39 Sabreliner
+SBR2	jets	M	-		#	NORTH AMERICAN ROCKWELL	NA-265 Sabre 75/80
+SC01	props	L	-		#	GYROFLUG	SC-01 Speed Canard
+SC7	turboprops	L	-		#	SHORT	SC-7 Skyliner/Skyvan
+SCAM	props	L	-		#	AEROSPORT	Scamp
+SCEP	props	L	-		#	SLIPSTREAM	Scepter
+SCOM	props	L	-		#	SKYGEAR	Comet
+SCOR	helos	L	-		#	ROTORWAY	Scorpion
+SCOU	helos	L	-		#	WESTLAND	Scout
+SCRO	props	L	-		#	AKAFLIEG MUNCHEN	MU-30 Schlacro
+SCTR	props	L	-		#	FLAGLOR	Scooter
+SCUB	props	L	-		#	AERO KUHLMANN	Scub
+SCW1	props	L	-		#	SCWAL	101
+SD26	props	L	-		#	SKYDANCER	SD-260
+SDUS	props	L	-		#	STOLP	Super Starduster
+SE5A	props	L	-		#	RAF	SE-5A
+SE5R	props	L	-		#	REPLICA PLANS	SE-5A Replica
+SEAT	turboprops	L	-		#	SEAWIND	Turbine Seawind
+SEAW	props	L	-		#	SEAWIND	Seawind
+SERA	props	L	-		#	SERVOPLANT	Aerocraft
+SEST	turboprops	L	-		#	SEASTAR	SeaStar
+SF2	props	L	-		#	SISLER	SF-2 Cygnet
+SF23	props	L	-		#	SCHEIBE	SF-23 Sperling
+SF24	props	L	-		#	SCHEIBE	SF-24 Motorspatz
+SF25	props	L	-		#	SCHEIBE	SF-25 (Rotax/Super) Falke, Superschlepper
+SF27	props	L	-		#	SCHEIBE	SF-27M
+SF28	props	L	-		#	SCHEIBE	SF-28 Tandem Falke
+SF31	props	L	-		#	SPORTAVIA-PUTZER	SFS-31 Milan
+SF32	props	L	-		#	SCHEIBE	SF-32
+SF34	turboprops	M	-		#	SAAB	340, S100 Argus
+SF35	props	L	-		#	SCHEIBE	SF-35
+SF36	props	L	-		#	SCHEIBE	SF-36
+SG37	props	L	-		#	SCHWEIZER	SGM-2-37, TG-7
+SG70	props	L	-		#	GLASS	SG-70 STOLGlass
+SG92	turboprops	L	-		#	TECHNOAVIA	SM-92T/SMG-92 Turbo Finist
+SGRA	props	L	-		#	SG AVIATION	Rally
+SGUP	turboprops	M	-		#	AERO SPACELINES	377SGT Super Guppy
+SH33	turboprops	M	-		#	SHORT	330, SD3-30, C-23 Sherpa
+SH36	turboprops	M	-		#	SHORT	360, SD3-60
+SH4	helos	L	-		#	SILVERCRAFT	SH-4
+SH5	turboprops	M	-		#	HARBIN	PS-5, SH-5
+SHAC	props	M	-		#	AVRO	696 Shackleton
+SHAK	props	L	-		#	FREEDOM MASTER	FM-2 Air Shark
+SHAW	jets	M	-		#	HAWKER	Sea Hawk
+SHEA	props	L	-		#	SEAFLIGHT	Shearwater
+SHEK	props	L	-		#	RANS	S-16 Shekari
+SHER	props	L	-		#	SHERPA	Sherpa
+SHIP	-	-	-		#	(any manufacturer)	Airship
+SHOE	props	L	-		#	MERCURY	Shoestring
+SHOP	props	L	-		#	SALVAY-STARK	Skyhopper
+SIDE	props	L	-		#	SMYTH	S Sidewinder
+SIGM	props	L	-		#	ELITAR	Sigma
+SILH	props	L	-		#	SILHOUETTE	SA-60 Silhouette
+SIR2	props	L	-		#	RHEIN	Sirius 2
+SIRA	props	L	-		#	TECNAM	P-2002 Sierra
+SJ30	jets	L	-		#	SINO SWEARINGEN	SJ-30
+SK70	props	L	-		#	STARKRAFT	SK-700
+SKAR	props	L	-		#	III	Sky Arrow
+SKIF	props	L	-		#	AEROLITES	AeroSkiff
+SKIM	props	L	-		#	COLONIAL	C-1/2 Skimmer
+SKRA	props	L	-		#	SYNAIRGIE	Sky Ranger
+SKYO	props	L	-		#	SKYOTE AEROMARINE	Skyote
+SKYR	props	L	-		#	REARWIN	175/180 Skyranger
+SL1	props	L	-		#	STAR-LITE	SL-1 Star-Lite
+SL39	props	L	-		#	MAPO	SL-39
+SL90	props	L	-		#	AVIOTECHNICA	SL-90 Leshii
+SM01	props	L	-		#	STERN-MALLICK	SM-01 Vega
+SM19	turboprops	L	-		#	SIAI-MARCHETTI	SM-1019
+SM20	turboprops	L	-		#	TECHNOAVIA	SM-2000
+SM60	props	L	-		#	STINSON	SM-6000 Tri-Motor
+SM92	props	L	-		#	TECHNOAVIA	SM-92 Finist
+SMAX	props	L	-		#	AIRMAX	Seamax
+SMB2	jets	M	-		#	DASSAULT	Super Mystere B2
+SNAD	props	L	-		#	SNOBIRD	636 Snobird Adventurer
+SNOS	props	L	-		#	VSR	SR-1 Snoshoo
+SNS2	props	L	-		#	SORRELL	SNS-2 Guppy
+SNS7	props	L	-		#	SORRELL	SNS-7 Hiperbipe
+SNS9	props	L	-		#	SORRELL	SNS-9 EXP-2
+SOK2	props	L	-		#	SOKO	2
+SOKL	props	L	-		#	MRAZ	M-1 Sokol
+SOLI	props	L	-		#	RUTAN	77 Solitaire
+SONX	props	L	-		#	SONEX	Sonex
+SP18	props	L	-		#	LUSCOMBE	11E Spartan 185
+SP20	props	L	-		#	MICCO	SP-20/26
+SP33	jets	L	-		#	SPECTRUM	33
+SP55	props	L	-		#	TECHNOAVIA	SP-55
+SP6E	props	L	-		#	SAUSER	P-6E
+SP7	props	L	-		#	SPARTAN	7 Executive, UC-71
+SP91	props	L	-		#	TECHNOAVIA	SP-91 Slava
+SP95	props	L	-		#	TECHNOAVIA	SP-95
+SPA2	props	L	-		#	STARK-TREFETHEN	Sport-Aire 2
+SPAR	props	L	-		#	III	Speed Arrow
+SPC2	props	L	-		#	SPECTER	Specter 2
+SPEL	props	L	-		#	LOEHLE	Spitfire Elite
+SPGY	props	L	-		#	AIRCRAFT DESIGNS	Sportster Gyro
+SPHA	props	L	-		#	AMERICAN AUTOGYRO	SparrowHawk
+SPIR	props	L	-		#	QUESTAIR	Spirit
+SPIT	props	L	-		#	SUPERMARINE	Seafire/Spitfire
+SPOR	props	L	-		#	AMAX	Sport 1700
+SPR2	props	L	-		#	CARLSON	Sparrow 2, Sparrow-ette
+SPRT	props	L	-		#	PRACTAVIA	Sprite
+SPST	props	L	-		#	REARWIN	7000/8500/9000 Sportster
+SPT1	props	L	-		#	SPITFIRE	Mark 1
+SQ2T	props	L	-		#	GLASSIC	SQ-2000
+SQES	props	L	-		#	INNOVATION	SkyQuest
+SR20	props	L	-		#	CIRRUS	SR-20 (SRV)
+SR22	props	L	-		#	CIRRUS	SR-22
+SR71	jets	M	-		#	LOCKHEED	SR-71 Blackbird
+SRAC	props	L	-		#	SPORT RACER	Sport Racer
+SRAI	props	L	-		#	MONNETT	Sonerai
+SRAS	props	L	-		#	D'APUZZO	D-260/295/PJ-260 Senior Aero Sport
+SREY	props	L	-		#	PROGRESSIVE AERODYNE	SeaRey
+SS2P	props	L	-		#	SNOW	S-2
+SS2T	turboprops	L	-		#	AYRES	S-2R-T Turbo Thrush
+SSAB	jets	M	-		#	NORTH AMERICAN	F-100 Super Sabre
+SSTM	props	L	-		#	SG AVIATION	Sea Storm
+ST1	props	L	-		#	PHILLIPS	ST-1 Speedtwin
+ST10	props	L	-		#	SOCATA	ST-10 Diplomate/Provence/Super Horizon
+ST30	props	L	-		#	STAUDACHER	S-300
+ST50	turboprops	L	-		#	ISRAVIATION	ST-50
+ST60	props	L	-		#	STAUDACHER	S-600
+ST75	props	L	-		#	STEARMAN	75 Kaydet, PT-13, PT-17
+ST87	props	L	-		#	STERN	ST-87 Europlane
+STAL	props	L	-		#	AIRCRAFT DESIGNS	(Super) Stallion
+STAR	turboprops	L	-		#	BEECH	2000 Starship
+STAT	turboprops	L	-		#	AIRCRAFT DESIGNS	Turbine Stallion
+STFF	props	L	-		#	STATLER	Firefly
+STIL	props	L	-		#	TERZI	T-9 Stiletto
+STLN	turboprops	L	-		#	HELIO	AU-24/HST-550 Stallion
+STOR	props	L	-		#	SLEPCEV	SS-4 Storch
+STR2	props	L	-		#	STROJNIK	S-2
+STRA	props	L	-		#	STRIPLIN	Lone Ranger/Sky Ranger
+STRI	props	L	-		#	SOPWITH	Triplane
+STRM	props	L	-		#	SG AVIATION	Storm
+STST	props	L	-		#	CFM	SA-2 Star Streak
+SU15	jets	M	-		#	SUKHOI	Su-15
+SU17	jets	M	-		#	SUKHOI	Su-17/20/22
+SU24	jets	M	-		#	SUKHOI	Su-24
+SU25	jets	M	-		#	SUKHOI	Su-25 Scorpion, Su-28/39
+SU26	props	L	-		#	SUKHOI	Su-26
+SU27	jets	M	-		#	SUKHOI	Su-27/30/32/33/34/35/37
+SU29	props	L	-		#	SUKHOI	Su-29
+SU31	props	L	-		#	SUKHOI	Su-31
+SU38	props	L	-		#	SUKHOI	Su-38
+SU7	jets	M	-		#	SUKHOI	Su-7
+SU80	turboprops	M	-		#	SUKHOI	Su-80
+SUBA	props	L	-		#	FUJI	FA-200 Aero Subaru
+SUCO	helos	M	-		#	BELL	209/449 SuperCobra, AH-1
+SUNB	props	L	-		#	VERILITE	100 Sunbird
+SUNV	props	L	-		#	FOKKER	Super Universal
+SURU	props	L	-		#	IPT	IPT-16 Surubim
+SUSO	props	L	-		#	VSTOL	SS-2000 Super Solution
+SV4	props	L	-		#	STAMPE	SV-4
+SVNH	props	L	-		#	AEROTEC	MXP-740 Savannah
+SW2	turboprops	L	-		#	SWEARINGEN	SA-26 Merlin 2
+SW3	turboprops	L	-		#	SWEARINGEN	SA-226T/TB Merlin 3
+SW4	turboprops	M	-		#	SWEARINGEN	SA-226AT Merlin 4, SA-226TC Metro
+SWAK	props	L	-		#	ANGLIN	Space Walker 1/2
+SWAT	props	L	-		#	BHARAT	LT-1/2 Swati
+SWIF	jets	M	-		#	SUPERMARINE	Swift
+SWOR	props	L	-		#	FAIREY	Swordfish
+SX30	props	L	-		#	SWEARINGEN	SX-300
+SYCA	helos	L	-		#	BRISTOL	171 Sycamore
+SYMP	props	L	-		#	OMF	OMF-100 Symphony
+SZ45	props	L	-		#	SZD	SZD-45 Ogar
+SZ9M	props	L	-		#	SZD	SZD-9bis Bocian M-2000
+T1	jets	L	-		#	FUJI	T-1
+T101	turboprops	L	-		#	AEROPROGRESS	T-101 Grach
+T134	jets	M	-		#	TUPOLEV	Tu-134
+T144	heavy	H	-		#	TUPOLEV	Tu-144
+T154	jets	M	-		#	TUPOLEV	Tu-154
+T160	heavy	H	-		#	TUPOLEV	Tu-160
+T18	props	L	-		#	THORP	T-18 Tiger
+T2	jets	L	-		#	NORTH AMERICAN	T-2 Buckeye
+T204	jets	M	-		#	TUPOLEV	Tu-204/214/224/234
+T211	props	L	-		#	THORP	T-211
+T22M	jets	M	-		#	TUPOLEV	Tu-22M
+T250	props	L	-		#	BELLANCA	T-250 Aries
+T28	props	L	-		#	NORTH AMERICAN	T-28 Trojan
+T30	props	L	-		#	TERZI	T-30 Katana
+T33	jets	M	-		#	LOCKHEED	T-33 Shooting Star
+T334	jets	M	-		#	TUPOLEV	Tu-334
+T34P	props	L	-		#	BEECH	T-34 Mentor
+T34T	turboprops	L	-		#	BEECH	T-34C Turbo Mentor
+T35	props	L	-		#	TEMCO	T-35 Buckaroo
+T37	jets	L	-		#	CESSNA	T-37, 318
+T38	jets	L	-		#	NORTHROP	T-38 Talon
+T4	jets	M	-		#	KAWASAKI	T-4
+T40	props	L	-		#	TURNER	T-40
+T411	props	L	-		#	KHRUNICHEV	T-411 Aist/Wolverine
+T415	props	L	-		#	KHRUNICHEV	T-415 Snegir
+T5	turboprops	L	-		#	FUJI	T-5, KM-2Kai
+T50	props	L	-		#	CESSNA	T-50 Bobcat, AT-8/17, Crane, UC-78
+T51	props	L	-		#	TITAN	T-51 Mustang
+T6	props	L	-		#	NORTH AMERICAN	T-6 Texan, Harvard, SNJ
+T7	turboprops	L	-		#	FUJI	T-7
+TA15	props	L	-		#	TAYLORCRAFT	15 Foursome/Tourist
+TA16	props	L	-		#	THURSTON	TA-16 Seafire/Trojan
+TA20	props	L	-		#	TAYLORCRAFT	20 Ranchwagon/Seabird/Topper/Zephyr 400
+TAA1	props	L	-		#	TOYOTA	TAA-1
+TAGO	props	L	-		#	TEAM TANGO	Tango-2
+TAIL	props	L	-		#	WITTMAN	W-8/9/10 Tailwind
+TAMP	props	L	-		#	SOCATA	TB-9 Tampico
+TARO	props	L	-		#	ANAHUAC	Tauro
+TAYA	props	L	-		#	TAYLORCRAFT	A
+TAYB	props	L	-		#	TAYLORCRAFT	BC (Ace/Sportsman/Traveller/Twosome), BF, BL
+TAYD	props	L	-		#	TAYLORCRAFT	DC, DCO, DF, DL, L-2
+TB05	props	L	-		#	AMC	Texas Bullet 205
+TB30	props	L	-		#	SOCATA	TB-30 Epsilon
+TB31	turboprops	L	-		#	SOCATA	TB-31 Omega
+TBEE	props	L	-		#	UNITED CONSULTANT	UC-1 Twin Bee
+TBM	props	M	-		#	GRUMMAN	TBF Avenger
+TBM7	turboprops	L	-		#	SOCATA	TBM-700
+TBM8	turboprops	L	-		#	SOCATA	TBM-850
+TBR3	props	L	-		#	GOLDEN CIRCLE	T-Bird 2 Cargo/T-Bird 3
+TC2	props	L	-		#	AERO MIRAGE	TC-2
+TCAT	props	M	-		#	GRUMMAN	F7F Tigercat
+TCOU	props	L	-		#	HELIO	H-500/U-5 Twin Courier
+TD2	turboprops	L	-		#	TURBINE DESIGN	TD-2 Tempest
+TEAL	props	L	-		#	THURSTON	TSC-1 Teal
+TERM	props	L	-		#	SMITH	Termite
+TERR	props	L	-		#	FOXCON	Terrier
+TEX2	turboprops	L	-		#	RAYTHEON	T-6 Texan 2
+TF19	props	L	-		#	TAYLORCRAFT	F-19 Sportsman
+TF21	props	L	-		#	TAYLORCRAFT	F-21
+TF22	props	L	-		#	TAYLORCRAFT	F-22 Classic/Ranger/Tracker/Tri-Classic/Trooper
+TFK2	props	L	-		#	TECHNOFLUG	TFK-2 Carat
+TFOC	props	L	-		#	THUNDER WINGS	Focke-Wulf Fw-190
+TFUN	props	L	-		#	VALENTIN	Taifun
+TGRS	props	L	-		#	LANCAIR	Tigress
+TIGR	helos	L	-		#	EUROCOPTER	EC-665 Tiger/Tigre
+TIJU	props	L	-		#	AVIONS FAIREY	Tipsy Junior
+TIPB	props	L	-		#	AVIONS FAIREY	Tipsy B/BC/Belfair/Trainer
+TJET	jets	L	-		#	MAVERICK	TJ-1500 Leader/TwinJet
+TL20	props	L	-		#	TL ULTRALIGHT	TL-2000 Sting/StingSport
+TLEG	turboprops	L	-		#	PERFORMANCE	Turbine Legend
+TM5	props	L	-		#	TM AIRCRAFT	TM-5
+TMOT	props	L	-		#	FISHER	R-80/RS-80 Tiger Moth
+TMUS	props	L	-		#	PAPA 51	Thunder Mustang
+TNAV	props	L	-		#	CAMAIR	480 Twin Navion
+TNDR	props	L	-		#	DREAM	Tundra
+TOBA	props	L	-		#	SOCATA	TB-10/200 Tobago
+TOOT	props	L	-		#	MEYER	Little Toot
+TOR	jets	M	-		#	PANAVIA	Tornado
+TOUR	props	L	-		#	VICTA	Airtourer
+TOXO	props	L	-		#	CAG	Toxo
+TP40	props	L	-		#	THUNDER WINGS	Curtiss P-40
+TPIL	turboprops	L	-		#	ENAER	T-35DT Turbo Pill, T-35TX Aucun
+TPIN	props	L	-		#	SCOTTISH AVIATION	Twin Pioneer
+TR1	props	L	-		#	TRIDENT	TR-1 Trigull
+TR20	props	L	-		#	FEUGRAY	TR-200
+TR26	props	L	-		#	FEUGRAY	TR-260 Sirius
+TRAP	props	L	-		#	CAPELLA	T-Raptor
+TRBA	props	L	-		#	PODESVA	Trener Baby
+TRDO	props	L	-		#	TITAN	Tornado SS
+TRF1	props	L	-		#	TEAM ROCKET	F-1
+TRID	jets	M	-		#	HAWKER SIDDELEY	HS-121 Trident
+TRIM	props	L	-		#	FORD	4-AT, 5-AT Tri-Motor
+TRIN	props	L	-		#	SOCATA	TB-20 Pashosh, TB-20/21 Trinidad
+TRIS	props	L	-		#	BRITTEN-NORMAN	BN-2A Mk3 Trislander
+TRMA	props	L	-		#	STINSON	A Tri-Motor
+TRWN	props	L	-		#	PACIFIC AIRMOTIVE	Tradewind
+TS11	jets	L	-		#	PZL-MIELEC	TS-11 Iskra
+TS8	props	L	-		#	PZL-MIELEC	TS-8 Bies
+TSPT	props	L	-		#	THUNDER WINGS	Supermarine Spitfire
+TSTR	props	L	-		#	FARRINGTON	Twinstar
+TT62	props	L	-		#	HPA	TT-62 Alekto
+TTWO	props	L	-		#	PARKER	Teenie Two
+TU16	jets	M	-		#	TUPOLEV	Tu-16
+TU22	jets	M	-		#	TUPOLEV	Tu-22
+TU4	turboprops	M	-		#	TUPOLEV	Tu-4
+TU95	turboprops	H	-		#	TUPOLEV	Tu-20/95/142
+TUCA	turboprops	L	-		#	EMBRAER	EMB-312 Tucano, T-27
+TUTR	props	L	-		#	AVRO	621 Tutor
+TVL4	props	L	-		#	TRAVEL AIR	4, 4000
+TVLB	props	L	-		#	TRAVEL AIR	B, 2000
+TWSP	props	L	-		#	TIME WARP	Spitfire
+TZRV	jets	L	-		#	IRIAF	JT-2-2 Tazarve
+U16	props	M	-		#	GRUMMAN	HU-16 Albatross, G-64/111
+U2	jets	M	-		#	LOCKHEED	U-2, ER-2
+U21	turboprops	L	-		#	BEECH	U-21 Ute
+U22	props	L	-		#	BEECH	QU-22, 1074, 1079
+UBAT	props	L	-		#	AUSTRALITE	Ultrabat
+UF10	props	L	-		#	URBAN	UFM-10 Samba
+UF13	props	L	-		#	URBAN	UFM-13 Lambada
+UFHT	props	L	-		#	UFO	HeliThruster
+UH1	helos	L	-		#	BELL	UH-1 Iroquois, Huey, 204, 205, 210
+UH12	helos	L	-		#	HILLER	UH-12, H-23 Raven
+UH1Y	helos	M	-		#	BELL	UH-1Y
+UHEL	-	-	-		#	(any manufacturer)	Microlight helicopter, Ultralight helicopter
+UL10	props	L	-		#	ULTIMATE	10 Albertan
+UL20	props	L	-		#	ULTIMATE	20
+ULAC	-	-	-		#	(any manufacturer)	Microlight aircraft, Ultralight aircraft
+ULPA	props	L	-		#	ULLMANN	Panther
+ULTS	helos	L	-		#	AMERICAN SPORTSCOPTER	Ultrasport 496
+UM18	props	L	-		#	UMBAUGH	18
+UNIV	props	L	-		#	NEIVA	N-621/622/T-25 Universal
+US1	turboprops	M	-		#	SHIN MEIWA	US-1, SS-2A
+UT60	props	L	-		#	UTVA	60
+UT65	props	L	-		#	UTVA	65 Privrednik
+UT66	props	L	-		#	UTVA	66
+UT75	props	L	-		#	UTVA	75
+UU12	props	L	-		#	UDET	U-12 Flamingo Replica
+V1	turboprops	M	-		#	GRUMMAN	V-1 Mohawk
+V10	turboprops	L	-		#	NORTH AMERICAN ROCKWELL	OV-10 Bronco
+V22	turboprops	M	-		#	BELL-BOEING	V-22 Osprey
+V500	helos	L	-		#	REVOLUTION	Voyager-500
+V8SP	props	L	-		#	BEACHNER	V-8 Special
+VALI	props	L	-		#	VULTEE	BT-13/15/V-54/74/SNV Valiant
+VAMP	jets	L	-		#	DE HAVILLAND	DH-100/115 Vampire
+VANT	jets	L	-		#	VISIONAIRE	VA-10 Vantage
+VAUT	jets	M	-		#	SUD	SO-4050 Vautour
+VC10	heavy	H	-		#	VICKERS	VC-10
+VECT	turboprops	M	-		#	EMBRAER-FMA	CBA-123 Vector
+VELO	props	L	-		#	VELOCITY	Velocity
+VENT	props	L	-		#	SCHEMPP-HIRTH	Ventus
+VEZE	props	L	-		#	RUTAN	33 VariEze
+VF14	jets	M	-		#	VFW	VFW-614
+VF2	props	L	-		#	FRY	VF-2 Esprit
+VF35	jets	M	-		#	LOCKHEED MARTIN	F-35B Lightning II
+VF60	turboprops	L	-		#	VULCANAIR	VF-600 Mission
+VG3T	props	L	-		#	AVIAKIT	Vega 3000
+VGUL	props	L	-		#	PERCIVAL	P-10 Vega Gull
+VIMA	props	L	-		#	VALTION	Viima
+VIMY	props	L	-		#	VICKERS	FB-27 Vimy Replica
+VIPJ	jets	L	-		#	VIPER	ViperJet
+VIPR	props	L	-		#	PAXMAN'S	Viper
+VISC	turboprops	M	-		#	VICKERS	Viscount
+VIX	props	L	-		#	SKYSTAR	Kitfox Vixen, Kitfox Voyager
+VIXN	props	L	-		#	AMAX	Vixen
+VJ22	props	L	-		#	VOLMER	VJ-22 Sportsman
+VK3P	props	L	-		#	CIRRUS	VK-30 Cirrus
+VL55	props	L	-		#	3XTRIM	550-VLA
+VM1	props	L	-		#	VOL MEDITERRANI	VM-1 Esqual
+VMT	heavy	H	-		#	MYASISHCHEV	VM-T Atlant
+VNOM	jets	M	-		#	DE HAVILLAND	DH-112 Venom
+VO10	props	L	-		#	VOLAIRCRAFT	Volaire 10/1035/1050
+VP2	props	L	-		#	EVANS	VP-2 Volksplane
+VSON	props	L	-		#	AMERICAN AFFORDABLE	Vision
+VTC3	props	L	-		#	MSW	Votec 322
+VTOR	turboprops	L	-		#	PARTENAVIA	AP-68TP-600 Viator
+VTUR	props	L	-		#	QUESTAIR	M-20 Venture
+VUT1	props	L	-		#	EVEKTOR-AEROTECHNIK	VUT-100 Cobra
+VVIG	props	L	-		#	RUTAN	27/32 VariViggen
+VW10	props	L	-		#	AIRCONCEPT	VoWi-10 Airbuggy
+VWIT	props	L	-		#	WITTMAN	V-Witt
+W11	props	L	-		#	WOLF	W-11 Boredom Fighter
+W201	props	L	-		#	WEATHERLY	201, 620, 620B
+W3	helos	L	-		#	PZL-SWIDNIK	W-3 Anakonda/Erka/Gipsowka/Huzar/Sok, S-1/SRR-10 Procjon
+W62T	turboprops	L	-		#	WEATHERLY	620BTG, 620TP
+WA40	props	L	-		#	WASSMER	WA-40 Super 4
+WA41	props	L	-		#	WASSMER	WA-41 Baladou
+WA42	props	L	-		#	WASSMER	WA-421 Prestige
+WA50	props	L	-		#	WASSMER	WA-51 Pacific, WA-52 Europa, WA-54 Atlantic
+WA80	props	L	-		#	WASSMER	WA-80/81 Piranha
+WAC9	props	L	-		#	WACO	9
+WACA	props	L	-		#	WACO	A
+WACC	props	L	-		#	WACO	C, S
+WACD	props	L	-		#	WACO	D
+WACE	props	L	-		#	WACO	ARE/HRE/SRE Aristocrat
+WACF	props	L	-		#	WACO	F
+WACG	props	L	-		#	WACO	G
+WACM	props	L	-		#	WACO	M
+WACN	props	L	-		#	WACO	N
+WACO	props	L	-		#	WACO	O
+WACT	props	L	-		#	WACO	RPT
+WASP	helos	L	-		#	WESTLAND	Wasp
+WB57	jets	M	-		#	MARTIN	WB-57
+WBOO	props	L	-		#	DEAN-WILSON	Whitney Boomerang
+WCAT	props	L	-		#	GRUMMAN	F4F Wildcat
+WDEX	props	L	-		#	RADAB	Windex
+WESX	helos	L	-		#	WESTLAND	WS-58 Wessex
+WF4U	props	L	-		#	WAR	Vought F4U Corsair
+WFOC	props	L	-		#	WAR	Focke-Wulf 190
+WFUR	props	L	-		#	WAR	Hawker Sea Fury
+WG30	helos	L	-		#	WESTLAND	WG-30
+WH1	props	L	-		#	WENDT	WH-1 Traveler
+WHAT	props	L	-		#	WHATLEY	Special
+WHIL	props	L	-		#	REFLEX	WLAC-1 White Lightning
+WHIS	props	L	-		#	GROVE	GR-2 Whisper
+WHIT	props	L	-		#	MILES	M-11 Whitney Straight
+WHKN	jets	M	-		#	RUTAN	318 White Knight
+WICH	props	L	-		#	JAVELIN	Wichawk
+WIND	props	L	-		#	WATSON	GW-1 Windwagon
+WINE	props	L	-		#	WINDECKER	Eagle
+WIRR	props	L	-		#	COMMONWEALTH	CA-16 Wirraway
+WM2	props	L	-		#	MILLER	WM-2
+WOPU	props	L	-		#	AEROSPORT	Woody Pusher
+WP40	props	L	-		#	WAR	Curtiss P-40 Kittyhawk
+WP47	props	L	-		#	WAR	Republic P-47 Thunderbolt
+WS22	props	L	-		#	SPRING	WS-202 Sprint
+WT9	props	L	-		#	AEROSPOOL	WT-9 Dynamic
+WUSH	props	L	-		#	WUST	Seahawk
+WW1	props	L	-		#	WHITE	WW-1 Der Juger D-9
+WW23	jets	M	-		#	IAI	1123 Westwind
+WW24	jets	M	-		#	IAI	1124 Sea Scan/Westwind
+WZER	props	L	-		#	WAR	Mitsubishi Zero
+X29	jets	M	-		#	GRUMMAN	X-29
+X31	jets	M	-		#	ROCKWELL-MBB	X-31
+X32	jets	M	-		#	BOEING	X-32
+X4	props	L	-		#	ROBIN	X-4
+XL2	props	L	-		#	LIBERTY	XL-2
+XNOS	props	L	-		#	SONEX	Xenos
+XV15	turboprops	L	-		#	BELL	XV-15
+Y11	props	L	-		#	HARBIN	Y-11
+Y112	props	L	-		#	YAKOVLEV	Yak-112
+Y12	turboprops	L	-		#	HARBIN	Y-12 Harbinger
+Y130	jets	M	-		#	YAKOVLEV	Yak-130
+Y141	jets	M	-		#	YAKOVLEV	Yak-141
+Y18T	props	L	-		#	YAKOVLEV	Yak-18T
+YAK3	props	L	-		#	YAKOVLEV	Yak-3
+YAK9	props	L	-		#	YAKOVLEV	Yak-9
+YALE	props	L	-		#	NORTH AMERICAN	BT-9/BT-14/NJ Yale
+YARR	props	L	-		#	ARROW	Yarrow Arrow
+YAST	props	L	-		#	SGAU	Yastreb
+YC12	props	L	-		#	CHASLE	YC-12/121/122/123 Tourbillon
+YK11	props	L	-		#	YAKOVLEV	Yak-11
+YK12	props	L	-		#	YAKOVLEV	Yak-12
+YK18	props	L	-		#	YAKOVLEV	Yak-18
+YK28	jets	M	-		#	YAKOVLEV	Yak-28
+YK38	jets	M	-		#	YAKOVLEV	Yak-38
+YK40	jets	M	-		#	YAKOVLEV	Yak-40
+YK42	jets	M	-		#	YAKOVLEV	Yak-42/142
+YK50	props	L	-		#	YAKOVLEV	Yak-50
+YK52	props	L	-		#	YAKOVLEV	Yak-52
+YK53	props	L	-		#	YAKOVLEV	Yak-53
+YK54	props	L	-		#	YAKOVLEV	Yak-54
+YK55	props	L	-		#	YAKOVLEV	Yak-55
+YK58	props	L	-		#	YAKOVLEV	Yak-58
+YNHL	helos	L	-		#	AVIAIMPEX	AVIAIMPEX KT-112 Yanhol
+YS11	turboprops	M	-		#	NAMC	YS-11
+YURO	jets	M	-		#	SOKO	J-22 Orao
+Z22	props	L	-		#	MORAVAN	Zlin Z-22 Junak
+Z26	props	L	-		#	MORAVAN	Zlin Z-26/126/226/236/526/626/726 Akrobat/Bohatyr/Condor/Skydevil/Trener (Master)/Universal
+Z37P	props	L	-		#	MORAVAN	Z-37/237 Cmeluk/Sparka
+Z37T	turboprops	L	-		#	MORAVAN	Z-37T/137 Agro Turbo
+Z42	props	L	-		#	MORAVAN	Zlin Z-42/142/242
+Z43	props	L	-		#	MORAVAN	Zlin Z-43/143
+Z50	props	L	-		#	MORAVAN	Zlin Z-50
+ZA6	helos	L	-		#	AEROKOPTER	ZA-6 Sanka, AK-1
+ZEP2	props	L	-		#	KEUTHAN	Zephyr 2
+ZERO	props	L	-		#	MITSUBISHI	A6M Zero
+ZIA	props	L	-		#	APPLEBAY	Zia
+ZIU	props	L	-		#	TUSAS	ZIU
+ZULU	props	L	-		#	BUL	Zulu
