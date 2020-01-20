@@ -1,0 +1,10 @@
+== resources/speech/navpoints ==
+
+In this directory, you can specify the pronunciation of navpoint names for
+recognition and synthesis in solo sessions when voice instructions or read-backs
+are in use.
+
+List the navpoints in respective "XXXX.phon" files, where XXXX is the code of
+the location where they should be recognised. See "resources/speech/Notice" for
+a description of the expected format of these files.
+

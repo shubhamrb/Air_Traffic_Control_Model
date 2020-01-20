@@ -1,0 +1,26 @@
+
+== resources/speech ==
+
+This directory contains the pronunciation data for speech recognition and
+synthesis, respectively for voice instructions and pilot read-back in solo
+sessions.
+
+Its editable items are:
+- "airline-callsigns.phon" (file)
+- "navpoints" (directory with customisable contents)
+
+The former specifies airline radio callsigns, for example "Speedbird" for
+British Airways. The list of airline codes in the file is the one used to
+generate callsigns when spawning traffic in solo sessions, and to suggest
+callsigns for teacher-created traffic.
+
+The latter allows to specify the pronunciation of navpoint names (see Notice
+file in the "navpoints" directory). Note that you can always refer to navpoints
+by spelling out their short code using the standard aviation alpha-numericals.
+
+Each line in a pronunciation file must specify three values separated by pipe
+('|') characters. The three values are, in order:
+1. the code for the entry (ICAO airline code or navpoint short name);
+2. a text-to-speech string allowing virtual pilots to read out the entry;
+3. whitespace-separated phonemes expected by the acoustic model.
+
