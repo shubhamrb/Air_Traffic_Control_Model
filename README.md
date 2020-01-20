@@ -1,5 +1,12 @@
 # Air_Traffic_Control_Model
 
+==============
+  IMPORTANT
+==============
+
+due to greter size apt.dat file is not uploaded here so please download it from https://drive.google.com/open?id=1PyTMTmLbYk71GMJ4_JzM5wLmdb-qzs8j   and move it into resources/x-plane/ folder.
+
+
 
 ==============
   INSTALLING
