@@ -1,0 +1,24 @@
+== settings ==
+
+ATC-pie saves your settings in this directory:
+- general and system settings in "settings.ini" and "text-chat-messages.ini"
+- airport-specific settings in the "ad" directory (by location code)
+- CTR-specific settings in the "ctr" directory (by location code)
+- defined CTR radar positions in "CTR-positions.ini"
+- saved window and dock geometry in the binary file "dock_layout"
+
+You may customise display colours by editing the "colours.ini" file generated
+on first run, even while the program is running and reload them from the system
+menu. Empty lines and comment lines (starting with '#') will be ignored.
+
+You may also specify a list of additional viewers to register on startup. When
+activated from the view menu, registered viewers are sent the same traffic
+packets as the controllable tower viewer. List one host+port address per line
+in a file called "additional-viewers.ini", separating host and port with
+whitespace. Each address should correspond to a running FlightGear instance set
+up to receive FGMS packets on the specified port. Additional viewers can also
+be registered at run-time; use the start-up file for viewers you use regularly.
+
+It is safe to delete files here, e.g. to restore defaults, but the directory
+itself should not be deleted.
+

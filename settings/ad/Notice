@@ -1,0 +1,7 @@
+== settings/ad ==
+
+Airport-specific settings are stored here in a corresponding ICAO.ini file.
+
+Delete any file here to restore defaults at an airport, but the directory
+itself should not be deleted.
+

@@ -1,0 +1,9 @@
+== settings/ctr ==
+
+Local CTR settings are stored here by location code.
+
+To revert the settings saved for a CTR location "XXX", delete the matching
+"XXX.ini" file. To delete a CTR location and its code from the list of known
+locations, edit "CTR-positions.ini" in the parent directory and remove the
+appropriate line.
+
