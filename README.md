@@ -140,28 +140,3 @@ See resources/elev/Notice for more details on the format and purpose of ground
 elevation maps.
 
 
-
-=============
-  RESOURCES
-=============
-
-*** General links ***
-
-Main project page: http://sourceforge.net/projects/atc-pie
-Project wiki page: http://wiki.flightgear.org/ATC-pie
-
-
-*** For info/help ***
-
-User guide:     http://wiki.flightgear.org/ATC-pie_user_guide
-Video tutorial: http://www.youtube.com/playlist?list=PL1EQKKHhDVJvvWpcX_BqeOIsmeW2A_8Yb
-FAQ:            http://wiki.flightgear.org/ATC-pie_FAQ
-Support forum:  http://forum.flightgear.org/viewforum.php?f=83
-
-
-*** Development sites and repositories (for developers and contributors) ***
-
-Dev wiki:    https://sourceforge.net/p/atc-pie/wiki
-Testers' ML: https://sourceforge.net/p/atc-pie/mailing-lists/atc-pie-testing
-Code mirror: https://gitlab.com/atc-pie/atc-pie
-
